@@ -1,0 +1,1056 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The mystery of godlines, or, Godlinesse in a mystery, or, The character of a saint, in seeming contradictions by I.C., the meanest labourer in Christs vineyard.</title>
+            <author>I. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 83 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33706</idno>
+            <idno type="STC">Wing C50</idno>
+            <idno type="STC">ESTC R2354</idno>
+            <idno type="EEBO-CITATION">12266057</idno>
+            <idno type="OCLC">ocm 12266057</idno>
+            <idno type="VID">58076</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33706)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58076)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 131:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The mystery of godlines, or, Godlinesse in a mystery, or, The character of a saint, in seeming contradictions by I.C., the meanest labourer in Christs vineyard.</title>
+                  <author>I. C.</author>
+               </titleStmt>
+               <extent>[4], 52 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Philemon Stephens ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"April 11th, 1654, Imprimatur, Joseph Caryl"</note>
+                  <note>Reproduction of original in British Library.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58076:1" rendition="simple:additions"/>
+            <pb facs="tcp:58076:1"/>
+            <p>THE MYSTERY of GODLINES, OR, Godlineſſe in a Myſtery. OR, The Character of a Saint, in ſeem<g ref="char:EOLhyphen"/>ing Contradictions.</p>
+            <p>By <hi>I. C.</hi> The meaneſt Labourer in Chriſts Vineyard.</p>
+            <q>
+               <bibl>1 Tim. 3.16.</bibl> 
+               <hi>And without controverſie great is the MYSTERY OF GODLINESSE.</hi>
+            </q>
+            <q>
+               <bibl>1 Cor. 2.8.</bibl> 
+               <hi>But we ſpeak the wiſdome of God in a MYSTERY.</hi>
+            </q>
+            <q>
+               <bibl>Joh. 3.9.</bibl> 
+               <hi>Nieodemus anſwered and ſaid unto him, How can theſe things be?</hi>
+            </q>
+            <p>April 11th. 1654. <hi>Imprimatur Joſeph Caryl.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Philemen Stephens,</hi> at the Gilded Lion in St. <hi>Pauls</hi> Church-yard.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:58076:2"/>
+            <pb facs="tcp:58076:2"/>
+            <head>THE EPISTLE <hi>TO THE</hi> READER.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>Heſe</hi> Myſteries, <hi>having lain by me for ſome time, I lit<g ref="char:EOLhyphen"/>tle thought once ſhould e<g ref="char:EOLhyphen"/>ver appear'd to</hi> publike <hi>view; eſpecially in ſuch a</hi> Scribling age <hi>as this is,</hi> wherein there's no end of making many Books: <hi>But having</hi> incouragement, <hi>and</hi> approba<g ref="char:EOLhyphen"/>tion <hi>from ſome, I thought it not good to</hi> conceal <hi>any thing, that might make for</hi> Gods glory, <hi>and</hi> Publike profit. <hi>It's farre from my intentions</hi> (and I hope my heart deceives me not in it) <hi>to ſeek hereby</hi> ſelf-praiſe, <hi>or</hi> ſelf-applauſe, <hi>or that I might be</hi> known <hi>in the</hi> World, (good God! thou know'ſt how vile
+<pb facs="tcp:58076:3"/>I am, how unworthy to be numbred amongſt thine Ambaſſadours,) <hi>but that the</hi> Myſtery of godlineſſe <hi>might bee more</hi> manifeſt, <hi>and</hi> perſpicuous. <hi>Wee live in an age that affords us a world of</hi> (which might indeed have been a ſtrong argument for me not to have written theſe) <hi>PARADOXES, which are not all ORTHODOX; but</hi> (and I think I am not miſtaken) <hi>thou haſt no<g ref="char:EOLhyphen"/>thing here but ORTHODOX PARA<g ref="char:EOLhyphen"/>DOXES. I muſt acknowledge they were very</hi> profitable <hi>to mee, both in making them, and in often reading them, yea the more I read them, the more I</hi> gained <hi>by them; nay let mee tell thee freely, I</hi> underſtood <hi>more in ſome things by them, then ever I did before; many places of</hi> Scripture <hi>I could reconcile, which before ſeemed to me really oppoſite: I wiſh thee</hi> (with all my heart) <hi>the ſame profit, and more abundantly, ſo prayeth he</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>December, 1653.</date>
+               </dateline>
+               <signed>I. C. Who is very importunate at the Throne of Grace for thine, &amp; the Churches good. <hi>I. C.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:58076:3"/>
+            <head>THE Myſtery of Godlineſſe, OR, Godlineſſe in a Myſtery. Or, A Beleever clearing truth by ſeeming Contradictions.</head>
+            <div type="part">
+               <head>The firſt Century.</head>
+               <p n="1">1. <seg rend="decorInit">H</seg>E admires at the
+<note n="a" place="margin">1 Tim. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.16.</note> 
+                  <hi>Myſteri<g ref="char:EOLhyphen"/>ouſneſſe</hi> of godlineſſe; and yet wonders at the <hi>clearneſſe</hi> of it.</p>
+               <p n="2">2. He beleeves that God was manifeſt in the fleſh, 1 <hi>Tim.</hi> 3.16. <hi>and yet he beleeves</hi> that the GOD-HEAD was not made fleſh.</p>
+               <pb n="2" facs="tcp:58076:4"/>
+               <p n="3">3. He beleeves that Chriſt was without
+<note n="b" place="margin">Heb. 7.3</note> beginning of dayes, or end of life; <hi>and yet he beleeves,</hi> that he had both beginning of dayes, and end of life.</p>
+               <p n="4">4. He beleeves that Chriſt was no ſin<g ref="char:EOLhyphen"/>ner; <hi>and yet he beleeves,</hi> that he was the
+<note n="c" place="margin">Its the known ſpeech of <hi>Luther.</hi>
+                  </note> greateſt ſinner that ever was <hi>(by impu<g ref="char:EOLhyphen"/>tation)</hi>
+               </p>
+               <p n="5">5. He beleeves that Chriſt had no Father, <hi>(for his mother was a Virgin); and yet he beleeves</hi> he had a Father <hi>(for his mother was a married woman)</hi> Luk. 2.48.</p>
+               <p n="6">6. He beleeves that the
+<note n="d" place="margin">The Holy Ghoſt.</note> 
+                  <hi>Spirit of God;</hi> and the
+<note n="e" place="margin">Num. 16.22</note> 
+                  <hi>God of ſpirits,</hi> are but <hi>one</hi> God.</p>
+               <p n="7">7. He finds the Spirit of the Lord in him; <hi>and yet</hi> findes himſelf <hi>(many times)</hi> in the Spirit of the Lord, <hi>(eſpecially on the Lords day.)</hi> Rev. 1.10.</p>
+               <p n="8">8. He beleeves that God is included in no place; <hi>and yet he beleeves</hi> he is every where.</p>
+               <p n="9">9. He beleeves that there is not a word ſpoken, but God heareth it; <hi>and yet he be<g ref="char:EOLhyphen"/>leeves</hi> God heareth not ſinners, <hi>Joh.</hi> 9.31.</p>
+               <p n="10">10.<note place="margin">1 Cor. 3.22</note> He beleeves he hath a right to all the World; <hi>and yet he beleeves</hi> that what ever is not his own, he hath no right to.</p>
+               <p n="11">11. He beleeves that a wicked man hath no right to what he hath; <hi>and yet he be<g ref="char:EOLhyphen"/>leeves</hi> that what he hath, he hath a right to.</p>
+               <pb n="3" facs="tcp:58076:4"/>
+               <p n="12">12. He beleeves that every Saint is per<g ref="char:EOLhyphen"/>fect, <hi>Job</hi> 1.1. <hi>and yet he beleeves</hi> that if he ſhould ſay he is perfect, it ſhall alſo prove him perverſe, <hi>Job</hi> 9.20.</p>
+               <p n="13">13. He beleeves that theſe are two diffe<g ref="char:EOLhyphen"/>rent things, the <hi>ſin of nature,</hi> and the <hi>nature of ſin.</hi>
+               </p>
+               <p n="14">14. He beleeves that good works can<g ref="char:EOLhyphen"/>not ſave him; <hi>and yet he beleeves</hi> hee can never be ſaved without good works.</p>
+               <p n="15">15. He beleeves that Jeſus Chriſt was never forſaken of his Father; <hi>and yet hee beleeves</hi> that Chriſt ſaid true,
+<note place="margin">Mat. 27.26</note> when he cried to his Father, My God, my God, why haſt thou forſaken me?</p>
+               <p n="16">16 He beleeves that the Miniſters of Je<g ref="char:EOLhyphen"/>ſus Chriſt are called Angels, <hi>Rev.</hi> 1.20. <hi>and yet he beleeves</hi> they are not miniſtring ſpi<g ref="char:EOLhyphen"/>rits, <hi>Heb.</hi> 1.14.</p>
+               <p n="17">17. He beleeves that Jeſus Chriſt is the onely Son,
+<note place="margin">Joh. 1.14 Com with 12.</note> the onely begotten Son of the Father; <hi>and yet he beleeves</hi> that God the Father hath many other ſons.</p>
+               <p n="18">18. He beleeves that he muſt pray to the whole Trinity; to the Father who is God, to the Son who is God, to the Holy Ghoſt who is God; <hi>and yet hee beleeves</hi> that hee commits horrible Idolatry if he prayes to any more Gods then one God.
+<note place="margin">2 King. 19.15 Exo. 20.17</note>
+               </p>
+               <p n="19">19. He beleeves that it is a ſin to be co<g ref="char:EOLhyphen"/>vetous;
+<pb n="4" facs="tcp:58076:5"/>
+                  <hi>and yet he beleeves</hi> that one may be covetous and not ſin, 1 <hi>Cor.</hi> 12.31.</p>
+               <p n="20">20. He beleeves that ſome may enjoy a<g ref="char:EOLhyphen"/>bundance, <hi>and yet</hi> want; and that others may want, <hi>and yet</hi> enjoy abundance.</p>
+               <p n="21">21. He beleeves that whoever hath God, is the richeſt perſon in the World; <hi>and yet he beleeves</hi> that one may have God, and yet many richer then he.</p>
+               <p n="22">22. He beleeves that to
+<note n="a" place="margin">
+                     <hi>Viz.</hi> to die.</note> give up the ghoſt can no way (without blaſphemy) be attributed to God, or to any perſon in the God-Head; <hi>and yet he beleeves</hi> that Je<g ref="char:EOLhyphen"/>ſus Chriſt, who was truely God, once gave up the ghoſt, <hi>Mar.</hi> 15.37.</p>
+               <p n="23">23. He beleeves that his life (here) is not eternall; <hi>and yet he beleeves</hi> that he hath in him eternall life, <hi>Joh.</hi> 8.54.</p>
+               <p n="24">24 He beleeves that Chriſt aſſumed not man, but the humanity,
+<note n="b" place="margin">—Not the perſon, but the nature: for other<g ref="char:EOLhyphen"/>wayes hee had not been God<g ref="char:EOLhyphen"/>man and one perſon, but two perſons, &amp; ſo there had been two Chriſts. Heb. 9.27</note> 
+                  <hi>and yet he beleeves</hi> that he was made Man: <hi>the MAN Chriſt Jeſus,</hi> 1 <hi>Tim.</hi> 2.5.</p>
+               <p n="25">25 He beleeves that there are many need<g ref="char:EOLhyphen"/>full things; <hi>and yet</hi> ſaith Chriſt to <hi>Martha,</hi> but one thing is needfull, <hi>Luk.</hi> 10.42.</p>
+               <p n="26">26 He beleeves that it is appointed unto men but once to die; <hi>and yet hee beleeves</hi> that every Saint dies daily.</p>
+               <p n="27">27. He beleeves that God will ſhew wonders to the dead, in raiſing all that are
+<pb n="5" facs="tcp:58076:5"/>dead to life again; <hi>and yet he beleeves</hi> that Scripture true, wilt thou ſhew wonders to the dead? ſhall the dead ariſe and praiſe thee? <hi>Pſal.</hi> 88.10.</p>
+               <p n="28">28 He beleeves that he ſhall overcome death <hi>(in Chriſt); and yet he beleeves</hi> that death will overcome him.</p>
+               <p n="29">29. He beleeves that all muſt taſte of death; <hi>and yet he beleeves</hi> there is a death many ſhall not taſte of.</p>
+               <p n="30">30. He knows that all men die but once; <hi>and yet hee beleeves</hi> there is a
+<note n="a" place="margin">Rev. 20.14</note> ſecond death.</p>
+               <p n="31">31. He beleeves that death is not viſible, becauſe it never had a being; <hi>and yet he be<g ref="char:EOLhyphen"/>leeves,</hi>
+                  <note n="b" place="margin">Pſa. 89.48</note> what man is he that liveth, and ſhall not ſee death?</p>
+               <p n="32">32. He beleeves that God is Omniſcient, knowing all things; <hi>and yet he beleeves</hi> that the wicked are unknown to God, (<hi>De<g ref="char:EOLhyphen"/>part from me, ſaith Chriſt, I know you not,</hi> Matth. 25.12. <hi>I never knew you,</hi> Matth. 7.23.</p>
+               <p n="33">33. He beleeves that Scripture true, no man hath ſeen God at any time, 1 <hi>Joh.</hi> 4.12. <hi>and yet he beleeves</hi> at
+<note n="c" place="margin">In his works. Ro. 1.20.</note> any time God may be ſeen.</p>
+               <p n="34">34. He beleeves that none can ſee God and live; <hi>and yet he beleeves</hi> that none can live without ſeeing God.</p>
+               <pb n="6" facs="tcp:58076:6"/>
+               <q>
+                  <l>In what a ſtrait, in what a ſtrait am I?</l>
+                  <l>Twixt two extrems how my rackt for<g ref="char:EOLhyphen"/>tunes lie?</l>
+                  <l>See I thy face, or ſee it not, I die.</l>
+               </q>
+               <p n="35">35. He beleeves that every man is mor<g ref="char:EOLhyphen"/>tall; <hi>and yet he beleeves</hi> that an
+<note n="a" place="margin">
+                     <hi>Viz.</hi> his ſoul.</note> immortall being is in every man.</p>
+               <p n="36">36. He beleeves that God is Infinite; <hi>and yet he beleeves</hi> that hee dwells in the broken and contrite heart of a finite creature.
+<note place="margin">Eſa. 66.1, 2</note>
+               </p>
+               <p n="37">37. He beleeves that having Chriſt, hee hath all things with him; <hi>and yet he beleeves</hi> he may want though he hath Chriſt.</p>
+               <p n="38">38. He beleeves that it's impoſſible for God to lie; <hi>and yet he beleeves</hi> that God may utter that which he never intends to bring to paſſe.</p>
+               <p n="39">39. He beleeves that God is unchange<g ref="char:EOLhyphen"/>able, and immutable; <hi>and yet he beleeves</hi> that God may be ſaid ſometimes to
+<note n="b" place="margin">Joel 2.13</note> re<g ref="char:EOLhyphen"/>pent.</p>
+               <p n="40">40 When he is weak, then he is ſtrong, <hi>yea</hi> his ſtrength is made perfect in weak<g ref="char:EOLhyphen"/>neſſe, 2 <hi>Cor.</hi> 12.9, 10. <hi>and yet</hi> when he is ſtrong <hi>(in his own eyes)</hi> then is he weak.</p>
+               <p n="41">41. He beleeves that it is impoſſible for any to eſcape death; <hi>and yet he beleeves</hi> the
+<pb n="7" facs="tcp:58076:6"/>words of Chriſt to be true, Verily, verily I ſay unto you, if any man keep my ſaying, he ſhall never taſte of death, <hi>Joh.</hi> 8.52.</p>
+               <p n="42">42. He beleeves that God cannot be ſeen
+<note n="a" place="margin">
+                     <hi>Quid ſit.</hi>
+                  </note> what he is in himſelf; <hi>and yet he beleeves</hi> that when he ſhall appear, the Saints ſhall be like him, for they ſhall ſee him
+<note n="b" place="margin">1 Joh. 3.2</note> as he is.</p>
+               <p n="43">43 He beleeves that he that committeth ſinne is of the Devil, 1 <hi>Joh.</hi> 3.8. <hi>and yet he beleeves</hi> that he is not of the Devil though he committeth ſin.</p>
+               <p n="44">44 He beleeves that the eyes of the Lord are in every place;
+<note place="margin">Prov. 15.3</note> 
+                  <hi>and yet he beleeves</hi> that the Lord hath no eyes.</p>
+               <p n="45">45 He beleeves that the ears of the Lord are open to the cries of the righteous;
+<note place="margin">Pſal. 34.15</note> 
+                  <hi>and yet he beleeves</hi> that the Lord hath no eares.</p>
+               <p n="46">46. He beleeves that prayer,
+<note place="margin">1 Tim. 2.1</note> and ſuppli<g ref="char:EOLhyphen"/>cation are to be made for all men; <hi>and yet he beleeves</hi> that there be ſome men that prayer,
+<note place="margin">1 Joh. 5.6</note> and ſupplication are not to be made for.</p>
+               <p n="47">47 He beleeves that God is ſaid to have eyes, ears, arms, legs, a mouth, breath, bow<g ref="char:EOLhyphen"/>els, &amp;c. <hi>and yet he beleeves</hi> that it's blaſphe<g ref="char:EOLhyphen"/>mie to ſay, or think, that God hath a bodily, or corporeall ſubſtance.</p>
+               <p n="48">48 He beleeves that who ever hath faith
+<pb n="8" facs="tcp:58076:7"/>beleeves; <hi>and yet he thinks</hi> one may beleeve, and yet not have faith.</p>
+               <p n="49">49. He beleeves that Chriſt was crucified (or the Lamb ſlain) from the beginning of the world;
+<note place="margin">Revel. 13.8</note> 
+                  <hi>and yet he beleeves</hi> that Chriſt was not crucified till after the world began ſome thouſands of years.</p>
+               <p n="50">50. He beleeves that when Chriſt was upon the Croſſe,
+<note n="a" place="margin">God ſuf<g ref="char:EOLhyphen"/>fered in the fleſh <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> with fleſh.</note> God might be rightly ſaid to ſuffer; <hi>and yet he beleeves</hi> that the God-Head ſuffered not.</p>
+               <p n="51">51. He beleeves that Chriſt ſuffered inno<g ref="char:EOLhyphen"/>cently, <hi>Heb.</hi> 7.26. <hi>and yet he beleeves</hi> that he ſuffered for ſin, <hi>Iſa.</hi> 53.10.</p>
+               <p n="52">52. He beleeves that there's no
+<note n="b" place="margin">That's ſinfull.</note> evil but he muſt reſiſt; <hi>and yet</hi> ſaith our Savi<g ref="char:EOLhyphen"/>our, reſiſt not evil, <hi>Mat.</hi> 9.39.</p>
+               <p n="53">53. He looks upon himſelf as the greateſt ſinner;
+<note place="margin">1 Tim. 1.15</note> 
+                  <hi>and yet</hi> there hath been, and are many ſinners which may be lookt upon as great, if not greater then he.</p>
+               <p n="54">54. He beleeves that it's no ſinne to con<g ref="char:EOLhyphen"/>feſſe ſin;
+<note place="margin">When its confeſſed with no loa thing of it; and confeſ<g ref="char:EOLhyphen"/>ſeth ſin but doth not leave ſinne.</note> 
+                  <hi>and yet he beleeves</hi> that a man may <hi>c</hi> ſin in confeſſing ſin.</p>
+               <p n="55">55 He beleeves that one may be humble for his pride; <hi>and yet</hi> may be proud of his humility.</p>
+               <p n="56">56. He
+<note n="d" place="margin">Ezra 9.6</note> bluſheth for ſhame when he con<g ref="char:EOLhyphen"/>feſſeth his ſins to God; <hi>and yet</hi> he is not
+<note n="e" place="margin">Pſal. 51.14</note> aſhamed to confeſs the greateſt ſinnes he knows himſelf to be guilty of.</p>
+               <pb n="9" facs="tcp:58076:7"/>
+               <p n="57">57. He trembles for fear when ever he approacheth the Throne of Grace;
+<note place="margin">Eſay 66.2</note> 
+                  <hi>and yet</hi> comes boldly, <hi>Heb.</hi> 4.16.</p>
+               <p n="58">58. He ſometimes comes to duty, with his heart full of doubts whether he ſhall ſpeed in the duty; <hi>and yet</hi> is very confident he ſhall ſpeed without doubt.</p>
+               <p n="59">59. He beleeves that his Election is made ſure enough, 2 <hi>Tim.</hi> 2.19. <hi>and yet he beleeves</hi> that he is to give all diligence to make his <hi>(calling, and)</hi> election ſure, 2 <hi>Pet.</hi> 1.10.</p>
+               <p n="60">60. He beleeves that curſed is every one that continueth not in all things,
+<note place="margin">Gal. 3.10</note> which are written in the book of the Law to do them; he confeſſeth that himſelf hath not continu<g ref="char:EOLhyphen"/>ed in all things, which are written in the book of the law to do them,
+<note place="margin">Gal. 3.13</note> 
+                  <hi>and yet he be<g ref="char:EOLhyphen"/>leeves</hi> that he is not curſed.</p>
+               <p n="61">61. He beleeves that wicked men ſinne if they pray not; <hi>and yet he beleeves</hi> if they
+<note n="a" place="margin">
+                     <hi>Non faci<g ref="char:EOLhyphen"/>endo, ſed mo<g ref="char:EOLhyphen"/>do faciendi,</hi> not in do<g ref="char:EOLhyphen"/>ing it, but in the man<g ref="char:EOLhyphen"/>ner of do<g ref="char:EOLhyphen"/>ing it.</note> pray they ſin, <hi>Prov.</hi> 15 8.</p>
+               <p n="62">62. He beleeves himſelf to be a king; <hi>and yet</hi> a begger.</p>
+               <p n="63">63. He beleeves that ſaints may be, and are very profitable to others; <hi>and yet he be<g ref="char:EOLhyphen"/>leeves</hi> that when they have done all that they can do, they muſt ſay, they are but un<g ref="char:EOLhyphen"/>profitable ſervants, <hi>Luke</hi> 17.10.</p>
+               <p n="64">64. He beleeves that works juſtifie;
+<note place="margin">Coram he<g ref="char:EOLhyphen"/>minibus non coram Deo.</note> 
+                  <hi>and yet he beleeves</hi> that we are not juſtified by works. <hi>Or thus,</hi>
+               </p>
+               <pb n="10" facs="tcp:58076:8"/>
+               <p n="65">65. He beleeves that a man is juſtified by faith onely, and not by works, <hi>Rom.</hi> 3.28. <hi>and yet he beleeves</hi> that a man is juſtified by works, and not by faith only, <hi>Jam.</hi> 2.24.</p>
+               <p n="66">66. He is a man of ſorrows, and ac<g ref="char:EOLhyphen"/>quainted with grief; <hi>yet</hi> alwayes ſinging, and making melody in his heart to the Lord, <hi>Epheſ.</hi> 5.19.</p>
+               <p n="67">67. He cries out that his ſins have undone him; <hi>and yet he beleeves</hi> that he is not un<g ref="char:EOLhyphen"/>done.</p>
+               <p n="68">68. He beleeves that one may have no<g ref="char:EOLhyphen"/>things;
+<note place="margin">2 Cor. 6.10</note> 
+                  <hi>and yet</hi> poſſeſſing all things.</p>
+               <p n="69">69. He beleeves that one may have
+<note n="a" place="margin">As the ſto<g ref="char:EOLhyphen"/>ny ground, Luke 8.13</note> comfort by the Word, <hi>and yet</hi> not profit by it.</p>
+               <p n="70">70. He beleeves that he is <hi>dead</hi> and <hi>alive</hi> at one and the ſame time.</p>
+               <p n="71">71. He beleeves that he is bound to pray
+<note n="b" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> without ceaſing, 1 <hi>Theſ.</hi> 5.17. <hi>and yet he beleeves</hi> that he is not bound never to ceaſe praying.</p>
+               <p n="72">72. He beleeves upon good
+<note n="c" place="margin">Or, grounds.</note> reaſons, that God loves him; <hi>and yet</hi> ſees no rea<g ref="char:EOLhyphen"/>ſon why he ſhould love him.</p>
+               <p n="73">73. He beleeves that we are
+<note n="d" place="margin">2 Tim. 1.9.</note> called not according to our works; <hi>and yet he beleeves</hi> that according to our works we may know whether we are called.</p>
+               <pb n="11" facs="tcp:58076:8"/>
+               <p n="74">74. He beleeves that there's a
+<note n="a" place="margin">Of Gods Elect.</note> common faith, <hi>Titus</hi> 1.4. <hi>and yet he beleeves</hi> that faith is not common: (for all men have not faith, 2 <hi>Theſ.</hi> 3.2.)</p>
+               <p n="75">75. He beleeves that
+<note n="b" place="margin">1 Tim 4.4</note> every creature of God is good; <hi>and yet he beleeves</hi> that there's none good but one, and that is God, <hi>Mat.</hi> 19.17.</p>
+               <p n="76">76. He beleeves that the way to <hi>gain</hi> a mans life, is to <hi>loſe</hi> it, <hi>Mat.</hi> 10.39.</p>
+               <p n="77">77. He beleeves that the Spirit of Chriſt dwells not (eſſentially) in beleevers; <hi>and yet he beleeves</hi> that he that hath not the Spirit of Chriſt dwelling in him is none of his, <hi>Rom.</hi> 8.9, 11.</p>
+               <p n="78">78. He beleeves that this is as great a Goſpel truth, that he that <hi>repents not</hi> ſhall be damn'd; as he that <hi>beleeves not</hi> ſhall be damn'd.</p>
+               <p n="79">79. He beleeves that the way to <hi>pre<g ref="char:EOLhyphen"/>ſerve</hi> ſelf; is to <hi>kill</hi> ſelf.</p>
+               <p n="80">80 He beleeves that Jeſus Chriſt is God the Fathers onely Son and
+<note n="c" place="margin">Hebr. 1.2</note> heir; <hi>and yet he beleeves</hi> that every beleever is his ſonne and heir, <hi>Rom.</hi> 8.17.</p>
+               <p n="81">81. He beleeves that Chriſt is the King of Saints, and they his ſubjects;
+<note place="margin">Revel. 15.3</note> 
+                  <hi>and yet he be<g ref="char:EOLhyphen"/>leeves</hi> that every Saint is a king,
+<note place="margin">Revel. 1.6</note> and hath ſubjects.</p>
+               <p n="82">82. He beleeves that the way to <hi>have all,</hi> is to
+<note n="d" place="margin">For Chriſt</note> 
+                  <hi>part with all.</hi>
+               </p>
+               <pb n="12" facs="tcp:58076:9"/>
+               <p n="83">83. He beleeves that the Saints are Chriſts
+<note n="a" place="margin">Cant. 4.11</note> Spouſe; <hi>and yet he beleeves</hi> they are his brethren, <hi>Heb.</hi> 2.11, 12.</p>
+               <p n="84">84. He beleeves that there is none other name under heaven given among men whereby we muſt be ſaved, but onely by the name of Chriſt, <hi>Act.</hi> 4.12. <hi>and yet he be<g ref="char:EOLhyphen"/>leeves</hi> we are ſaved by hope, <hi>Rom.</hi> 8.24.</p>
+               <p n="85">85. He beleeves that none are choſen but who are called; <hi>and yet he beleeves</hi> that many are called, which ſhall never be cho<g ref="char:EOLhyphen"/>ſen, <hi>Mat.</hi> 22.14.</p>
+               <p n="86">86. He beleeves that ſin is the greateſt e<g ref="char:EOLhyphen"/>vil; <hi>and yet he heleeves</hi> that God can work good out of it.</p>
+               <p n="87">87. He beleeves that the
+<note n="a" place="margin">Compar'd to God.</note> 
+                  <hi>leaſt</hi> ſin, is the <hi>greateſt</hi> evil.</p>
+               <p n="88">88. He beleeves that Jeſus Chriſt was begotten of his Father from eternity; <hi>and yet he beleeves</hi> that he was born in time.</p>
+               <p n="89">89. He beleeves that ther's no condemnati<g ref="char:EOLhyphen"/>on to thoſe that are in Chriſt Jeſus, <hi>Rom.</hi> 8.1. <hi>and yet he beleeves</hi> there's none think them<g ref="char:EOLhyphen"/>ſelves more worthy of condemnation then thoſe that are in Chriſt Jeſus.</p>
+               <p n="90">90. He prayes that he might be heard; <hi>and yet</hi> he thinks he ſhall not be heard for his praying.</p>
+               <p n="91">91. He beleeves there's none that doth good,
+<note place="margin">Pſal. 14.3</note> no not one; <hi>and yet he beleeves</hi> there
+<pb n="13" facs="tcp:58076:9"/>are many which are good, and do good.</p>
+               <p n="92">92. He beleeves that God juſtifieth the
+<note n="a" place="margin">Rom. 4.5</note> ungodly; <hi>and yet he beleeves</hi> that
+<note n="b" place="margin">Such that live, and delight in actuall ſins, ſure are not yet actual<g ref="char:EOLhyphen"/>ly juſtified.</note> the ungodly are not juſtified.</p>
+               <p n="93">93. He beleeves that many, which ſay they <hi>love</hi> God, do yet <hi>hate</hi> him.</p>
+               <p n="94">94. He beleeves that God may be a
+<note n="c" place="margin">By crea<g ref="char:EOLhyphen"/>tion.</note> 
+                  <hi>Fa<g ref="char:EOLhyphen"/>ther</hi> to them he is not a <hi>Friend</hi> to.</p>
+               <p n="95">95. He beleeves that heaven is Gods dwelling place, 1 <hi>King.</hi> 8.39. <hi>and yet he be<g ref="char:EOLhyphen"/>leeves</hi> that he filleth heaven and earth, <hi>Jer.</hi> 23.24.</p>
+               <p n="96">96. He beleeves that his ſins are not hid from God;
+<note place="margin">Pſal. 89.5</note> 
+                  <hi>and yet he beleeves</hi> that God hath hid them.</p>
+               <p n="97">97. He beleeves that he ſins in
+<note n="d" place="margin">Pro. 28.13</note> covering of ſin from God; <hi>and yet he beleeves</hi> that all his ſins are covered by God, <hi>Pſal.</hi> 32.1.</p>
+               <p n="98">98. He beleeves that God is not the worſe for our ſins, <hi>and yet he beleeves</hi> that <hi>(in a ſence)</hi>
+                  <note n="e" place="margin">Sin is an injury to God, be<g ref="char:EOLhyphen"/>cauſe God hath leſſe external glory</note> God doth receive injury by our ſins.</p>
+               <p n="99">99. He beleeves that a Saint is one in whom there is
+<note n="f" place="margin">Joh. 1.47</note> no guile; <hi>and yet he beleeves</hi> that every Saint may complain of guile being in him.</p>
+               <p n="100">100. A little of God
+<note n="g" place="margin">More then any thing in the world beſides.</note> 
+                  <hi>contents</hi> him; and yet he is not <hi>contented</hi> with that little.</p>
+            </div>
+            <div type="part">
+               <pb n="14" facs="tcp:58076:10"/>
+               <head>The ſecond Century.</head>
+               <p n="101">101. HE beleeves that in all labor there is profit, <hi>Pro.</hi> 14.23. <hi>and yet hee beleeves</hi> the words of <hi>Solomon</hi> are true, What profit bath a man in all his labour? <hi>Eccleſ.</hi> 1.3. and 2.11.</p>
+               <p n="102">102. He beleeves that there's a provo<g ref="char:EOLhyphen"/>king one another that's unlawfull, <hi>Gal.</hi> 5.26. <hi>and yet that</hi> there's a provoking one another that's lawfull, <hi>Heb.</hi> 10.24. <hi>Or thus,</hi>
+               </p>
+               <p n="103">103. He thinks it not good we ſhould provoke one another; <hi>and yet thinks</hi> wee ſhould provoke one another to that which is good.
+<note place="margin">Heb. 10.24</note>
+               </p>
+               <p n="104">104. He beleeves that a good man <hi>(in ſome caſes)</hi> may be juſtly puniſht; <hi>and yet he beleeves</hi> that to puniſh the juſt is not good, <hi>Pro</hi> 17.28.</p>
+               <p n="105">105. He beleeves that every one that is gracious deſires grace; <hi>and yet he beleeves</hi> that one may
+<note n="a" place="margin">If there be deſires without en<g ref="char:EOLhyphen"/>deavours,</note> deſire grace and not be gra<g ref="char:EOLhyphen"/>cious.</p>
+               <p n="106">106. He cannot beleeve that <hi>David</hi>
+                  <pb n="15" facs="tcp:58076:10"/>could be poor and needy, and yet a <hi>King; and yet he beleeves</hi> that <hi>David</hi> ſaid true when he confeſt, but I am poor, and needy, <hi>Pſal.</hi> 70.5.</p>
+               <p n="107">107. He beleeves that he is to
+<note n="a" place="margin">Dan. 8.10 Pſal. 55.16, 17</note> task himſelf to an every-dayes performance of duty; <hi>and yet he beleeves</hi> that he muſt by no means look upon duty as a
+<note n="b" place="margin">Or burden</note> task.</p>
+               <p n="108">108. He beleeves that God will be good onely to them that ſeek him, <hi>Matt.</hi> 7.7, 8. <hi>and yet he beleeves</hi> that God is good to them that ſeek him not, <hi>Pſal.</hi> 145.9.</p>
+               <p n="109">109. He beleeves that a man doth not ſin in ſorrowing for ſin; <hi>and yet he beleeves</hi> that that ſorrowing for ſin, which keeps a man from cloſing with Chriſt is ſinfull.</p>
+               <p n="110">110. He knows death to be the King of terrours; <hi>yet</hi> it's not terrour to him.
+<note place="margin">Job 18.14</note>
+               </p>
+               <p n="111">111. He beleeves that Chriſt was tempt<g ref="char:EOLhyphen"/>ed in all points like as we are,
+<note place="margin">Heb. 4.15</note> yet without ſin;
+<note place="margin">2 Cor. 5.21</note> 
+                  <hi>and yet he beleeves</hi> that he was made ſin for us.</p>
+               <p n="112">112. He beleeves that God cannot be de<g ref="char:EOLhyphen"/>ceived; <hi>and yet he beleeves</hi> that hypocrites deceive him, <hi>Mal.</hi> 1.14.</p>
+               <p n="113">113. He beleeves that God hath promi<g ref="char:EOLhyphen"/>ſed to give to them that ask; <hi>and yet he beleeves</hi> that many ask, to whom God will never give.</p>
+               <p n="114">114. He beleeves that the Saints are very
+<pb n="16" facs="tcp:58076:11"/>vile,
+<note place="margin">Job 40.4 &amp; 42.6 Pſal. 18.3</note> baſe, lothſome creatures, (in their own eyes) <hi>yet</hi> the excellent on earth, in whom is all Chriſts delight.</p>
+               <p n="115">115. He beleeves that though Gods pre<g ref="char:EOLhyphen"/>ſence may be withdrawn from him; <hi>yet</hi> he cannot withdraw himſelf from the preſence of God.
+<note place="margin">Pſal. 139.7</note>
+               </p>
+               <p n="116">116. He beleeves that thoſe whom God intends to own, he is kind to; <hi>and yet hee beleeves</hi> that God is kind to thoſe whom he never intends to own, <hi>Luk.</hi> 6.35.</p>
+               <p n="117">117. He beleeves that none is as merci<g ref="char:EOLhyphen"/>full as God is mercifull; <hi>and yet he be<g ref="char:EOLhyphen"/>leeves</hi> that every ſaint is mercifull even as God is mercifull.
+<note place="margin">Luke 8.36</note>
+               </p>
+               <p n="118">118. He beleeves that a man may be go<g ref="char:EOLhyphen"/>ing to die, <hi>when as yet</hi> he hath not begun to live.</p>
+               <p n="119">119. He beleeves that the wicked are not
+<note n="a" place="margin">Pſal. 73.5</note> plagued like other men; <hi>and yet he be<g ref="char:EOLhyphen"/>leeves</hi> that the wicked
+<note n="b" place="margin">Job 15.20</note> travelleth in pain all his dayes.</p>
+               <p n="120">120 He beleeves that where there is not the fear of God, there is no true love to God;
+<note place="margin">1 Joh. 4.18</note> 
+                  <hi>and yet he beleeves</hi> that true love caſt<g ref="char:EOLhyphen"/>eth out fear.</p>
+               <p n="121">121. He looks beyond Ordinances, <hi>and yet</hi> is not above Ordinances.</p>
+               <p n="122">122. He dares not ſay that he is Chriſt; <hi>and yet he beleeves</hi> that himſelf with the
+<pb n="17" facs="tcp:58076:11"/>ſaints and Chriſt, are called one
+<note n="a" place="margin">1 Cor. 12.12</note> CHRIST.</p>
+               <p n="123">123. He knows he ſinnes in having a
+<note n="b" place="margin">To make a mock at ſin as fools do. Pro. 14.9</note> light eſteem of ſin, <hi>and yet</hi> he knows he ſins not in eſteeming it lightly, <hi>(or nothing worth.)</hi>
+               </p>
+               <p n="124">124. He knows that when he begins to die, then he ſhall begin to live, <hi>and yet hee beleeves</hi> that he ſhall not, nay cannot then begin to live, except he had begun to live before he had begun to die.</p>
+               <p n="125">125. He walks continually with God in heaven, <hi>and yet</hi> he is yet to go to heaven.</p>
+               <p n="126">126. He beleeves that
+<note n="c" place="margin">Rev. 18.2</note> Babylon is fallen, is fallen; <hi>and yet he beleeves</hi> that it's yet to fall.</p>
+               <p n="127">127. He beleeves that his own ſalvation is wrought out already for him, <hi>and yet he beleeves</hi> that he is to work out his own ſal<g ref="char:EOLhyphen"/>vation with fear, and trembling.
+<note place="margin">Phil. 2.12</note>
+               </p>
+               <p n="128">128. He prayes, hears, and reads, but be<g ref="char:EOLhyphen"/>leeves it's not theſe can ſave him, <hi>and yet</hi> he prayes, hears, and reads, as if he beleeved to be ſav'd by theſe.</p>
+               <p n="129">129. He is one that lives in heaven, <hi>Phil.</hi> 3.20. <hi>and yet</hi>
+                  <note n="d" place="margin">Surely where the ſupreme Majeſty pleaſes to manifeſt his preſence, there is hea<g ref="char:EOLunhyphen"/>ven. B. <hi>Hall.</hi> Soli. 19. pa. 69.</note> heaven lives in him.</p>
+               <p n="130">130. He beleeves that God is ready to pardon, <hi>Neh.</hi> 9.17. <hi>and yet he beleeves</hi> that pardon cannot be got readily.</p>
+               <p n="131">131. He is one, who though he hath not a foot of land of his own, <hi>yet</hi> hath a large
+<pb n="18" facs="tcp:58076:12"/>inheritance in the land of the living.</p>
+               <q>
+                  <l>No greater riches (Lord)</l>
+                  <l>have I then thee;</l>
+                  <l>In God Iv'e all, can I then</l>
+                  <l>richer be?</l>
+               </q>
+               <p n="132">132. He beleeves that what ever God doth, or intends to do for him, is all of free grace; <hi>and yet he beleeves</hi> there's nothing God doth, or intends to do for him, but it was bought firſt with a price.
+<note place="margin">1 Cor. 8.20</note>
+               </p>
+               <p n="133">133. He loves father, and mother, and wife,
+<note place="margin">Luk. 14 26</note> and children, and brethren, and ſiſters; <hi>and yet</hi> hates them.</p>
+               <p n="134">134. He is a peace-maker; <hi>and yet</hi> con<g ref="char:EOLhyphen"/>tinually quarrelling.</p>
+               <p n="135">135. He is no fighter;
+<note place="margin">1 Tim 6.12</note> 
+                  <hi>and yet</hi> alwayes fighting, <hi>(the good fight of faith.)</hi>
+               </p>
+               <p n="136">136. He knows that Chriſt hath com<g ref="char:EOLhyphen"/>manded him to love his enemies,
+<note place="margin">Luke 6.35</note> he be<g ref="char:EOLhyphen"/>leeves he ſins if he doth not; <hi>yet</hi> he hath
+<note n="a" place="margin">Sin, the world, and the fleſh.</note> enemies that he cannot, nay will not love, <hi>and beleeves</hi> he ſins not in ſo doing.</p>
+               <p n="137">137. When he is ſitting, lying, or ſtan<g ref="char:EOLhyphen"/>ding; he is ſtill
+<note n="b" place="margin">With God</note> 
+                  <hi>walking.</hi>
+               </p>
+               <p n="138">138. He beleeves that no man hath two hearts; <hi>and yet he beleeves</hi> that many men ſeek unto God with a
+<note n="c" place="margin">With an heart, and in heart. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oh. 6.56</note> double heart.</p>
+               <p n="139">139. He is one that dwels in Chriſt;
+<pb n="19" facs="tcp:58076:12"/>
+                  <hi>and yet</hi> hath Chriſt dwelling in him.</p>
+               <p n="140">140. He hath no abiding place; <hi>though</hi> a place to abide in.</p>
+               <p n="141">141. He lives peaceably with all men, <hi>Rom.</hi> 12.18. <hi>and yet</hi> all men live not peace<g ref="char:EOLhyphen"/>ably with him.</p>
+               <p n="142">142. His fellowſhip is with the Saints; <hi>and yet</hi> his fellowſhip is with the Father,
+<note place="margin">1 Joh. 3.3</note> and his Son Jeſus Chriſt.</p>
+               <p n="143">143. He is one that's joyfull, or full of joy; <hi>yet</hi> full of ſorrow, or ſorrowfull.</p>
+               <p n="144">144. He beleeves that he is <hi>a</hi> cleanſed from all unrighteouſneſſe;
+<note place="margin">1 Joh. 1.9</note> 
+                  <hi>and yet he be<g ref="char:EOLhyphen"/>leeves</hi> that all unrighteouſneſſe is not <hi>(clean)</hi> cleanſed from him.</p>
+               <p n="145">145. He beleeves that all the Saints, though many Thouſands;
+<note place="margin">Rom. 12.5</note> 
+                  <hi>are yet</hi> ONE in Chriſt.</p>
+               <p n="146">146. He beleeves that one may be in the true Church; <hi>and yet</hi> not of the true Church.</p>
+               <p n="147">147. He beleeves he cannot fall from grace; <hi>and yet</hi> ſome times he thinks he hath no grace at all.</p>
+               <p n="148">148. He beleeves that Gods face cannot be ſeen, <hi>Exod.</hi> 33.20. <hi>and yet</hi> he is ever be<g ref="char:EOLhyphen"/>holding the face of God, <hi>Pſal.</hi> 17.15.</p>
+               <p n="149">149. He knows that God cannot forget him; <hi>and yet</hi> he is often praying,
+<note place="margin">Eſay 49.15</note> that God would remember him.</p>
+               <pb n="20" facs="tcp:58076:13"/>
+               <p n="150">150. He beleeves that he hath a body of fleſh,
+<note place="margin">Rom. 7.24</note> and a body of ſin; <hi>and yet he beleeves</hi> that he hath not two bodies.
+<note place="margin">1 Joh. 2, 3, 4</note>
+               </p>
+               <p n="151">151. He beleeves that who ever keeps Gods commandements knows God;
+<note place="margin">Tit. 1.16</note> but not who ever knows God keeps his com<g ref="char:EOLhyphen"/>mandements.</p>
+               <p n="152">152. He beleeves that if we confeſſe our ſins, God is faithfull, and juſt to forgive us our ſins; <hi>and yet he beleeves</hi> that one may confeſſe his ſins, and yet God neither un<g ref="char:EOLhyphen"/>faithfull, nor unjuſt though he forgive not his ſins.</p>
+               <p n="153">153. He beleeves that every one hopes for glory; <hi>and yet he beleeves</hi> that the HOPE OF GLORY is not in every one.
+<note place="margin">Rom 5.2</note>
+               </p>
+               <p n="154">154. He beleeves that God himſelf,
+<note place="margin">Quicquid eſt in Deo eſt ipſe Deus.</note> is love it ſelf, mercy it ſelf, goodneſſe it ſelf, &amp;c. <hi>and that</hi> goodneſſe it ſelf, mercy it ſelf, love it ſelf, is God himſelf.</p>
+               <p n="155">155. He will not ſay that he is no ſonne; <hi>yet</hi> will ſay that he is unworthy to be called a ſonne.</p>
+               <p n="156">156. He beleeves that there's no perſon ſo juſt, as that he needs no repentance; <hi>and yet</hi> our Saviour makes mention of <hi>juſt per<g ref="char:EOLhyphen"/>ſons that need no repentance.</hi>
+                  <note place="margin">Luke 15.7</note>
+               </p>
+               <p n="157">157. He beleeves that ſin ſhall never have power over him;
+<note place="margin">Rom. 6.14</note> 
+                  <hi>and yet he beleeves</hi> that he may be over-power'd by a ſin.</p>
+               <pb n="21" facs="tcp:58076:13"/>
+               <p n="158">158. He beleeves that though evil be not good; <hi>yet</hi> it's good evil be.</p>
+               <p n="159">159. He learns to <hi>ſtand</hi> by his <hi>falls,</hi> and gets <hi>ſtrength</hi> by <hi>weakneſſe</hi> diſcover'd.</p>
+               <p n="160">160. He dares not ſay that he wants grace; <hi>and yet</hi> confeſſeth that he is very much wanting in grace.</p>
+               <p n="161">161. He beleeves that little children are uncapable of the knowledge of God; <hi>and yet he beleeves</hi> that the Apoſtle ſaid true,
+<note place="margin">1 Joh. 2.13</note> I write unto you little children, becauſe yee have known the Father.</p>
+               <p n="162">162. He is one that knows all things, 1 <hi>Joh.</hi> 2.20. <hi>and yet</hi> complains of Ignorance in many things.</p>
+               <p n="163">163. He beleeves that the <hi>body of death</hi> is one thing; and the <hi>death of the body</hi> an<g ref="char:EOLhyphen"/>other.</p>
+               <p n="164">164. He beleeves that ſome have the light of knowledge; <hi>which yet</hi> have not the (ſaving) knowledge of that light.</p>
+               <p n="165">165. He beleeves that a dead man can<g ref="char:EOLhyphen"/>not complain; <hi>yet</hi> when he's dead he com<g ref="char:EOLhyphen"/>plains of his deadneſſe.</p>
+               <p n="166">166. He beleeves that he is Antichriſt that denieth the Father and the Son;
+<note place="margin">1 Ioh. 2.22</note> 
+                  <hi>and yet he beleeves</hi> that the Father, and the Son, are not denied by
+<note n="a" place="margin">The Pa<g ref="char:EOLhyphen"/>piſts are right in the Trinity.</note> ANTICHRIST.</p>
+               <p n="167">167. He wonders how the cleaneſt water ſhould cleanſe his ſoul from the filth of ſin;
+<pb n="22" facs="tcp:58076:14"/>
+                  <hi>and yet he beleeves</hi> that from the filth of ſin his ſoul is cleanſed with the ſprinkling of clean water, <hi>Ezek.</hi> 36.25.</p>
+               <p n="168">168 He beleeves that he hath his old heart; <hi>and yet he beleeves</hi> that he hath a new heart.</p>
+               <p n="169">169 He takes no thought for the mor<g ref="char:EOLhyphen"/>row, <hi>Matth.</hi> 6.34. <hi>and yet</hi> none ſo full of cares as he, <hi>Act.</hi> 16.30.</p>
+               <p n="170">170. He beleeves he <hi>a</hi>
+                  <note place="margin">1 Ioh. 2.27</note> needs not that any man teach him;
+ <hi>and yet he beleeves</hi> he ſhall never be above the teaching of any man.</p>
+               <p n="171">171. He beleeves that every one that is born of God doth righteouſneſſe; <hi>and yet he beleeves</hi> that every one that doth righte<g ref="char:EOLhyphen"/>ouſneſſe is not born of God.</p>
+               <p n="172">172. He beleeves that Chriſt is never <hi>neerer</hi> him in power to <hi>uphold</hi> him, then when he ſeemeth moſt to <hi>hide</hi> his preſence, and to <hi>depart</hi> from him.</p>
+               <p n="173">173. Nothing will content him but pre<g ref="char:EOLhyphen"/>vailing in prayer, <hi>yet</hi> many times he prayes, and prevails not, and yet is contented.</p>
+               <p n="174">174. He beleeves he ſhall be filled with all the fulneſſe of God, <hi>Epheſ.</hi> 3.19. <hi>and yet he beleeves</hi> that God will remain as full as ever.</p>
+               <p n="175">175. He beleeves that God from eter<g ref="char:EOLhyphen"/>nity hath ſet down and decre'd with him<g ref="char:EOLhyphen"/>ſelf
+<pb n="23" facs="tcp:58076:14"/>that ſuch a number onely ſhall be ſaved;
+<note place="margin">Ioh. 3.15, 16</note> 
+                  <hi>and yet he beleeves</hi> that whoſoever belee<g ref="char:EOLhyphen"/>veth ſhall be ſaved.</p>
+               <p n="176">176. He beleeves that God did not
+<note n="a" place="margin">Damnati<g ref="char:EOLhyphen"/>on is not <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the end of reprobati<g ref="char:EOLhyphen"/>on, but the manifeſtati<g ref="char:EOLhyphen"/>on of the glory of Gods ju<g ref="char:EOLhyphen"/>ſtice. Hoſ. 13.9</note> re<g ref="char:EOLhyphen"/>probate a man to damn him; <hi>and yet he be<g ref="char:EOLhyphen"/>leeves</hi> he ſhall be damn'd becauſe he is re<g ref="char:EOLhyphen"/>probated.</p>
+               <p n="177">177. He beleeves that though God hath immutably, and unchangeably decreed the reprobation of ſome men; <hi>yet</hi> that the ruine of every one of thoſe men ſhall be of them<g ref="char:EOLhyphen"/>ſelves, (<hi>for no man ſhall be miſerable, but where he hath been ſinfull.</hi>
+               </p>
+               <p n="178">178 He beleeves that God did not reprobate any upon the foreſight of ſinne,
+<note place="margin">The decree of God is one thing; the execu<g ref="char:EOLhyphen"/>on of his decree an<g ref="char:EOLhyphen"/>other.</note> nor elect any upon the foreſight of faith, and good works; <hi>and yet he beleeves</hi> that as God decreed the end, ſo the means con<g ref="char:EOLhyphen"/>ducing to that end.</p>
+               <p n="179">179. He beleeves that as many as are or<g ref="char:EOLhyphen"/>dained to eternall life, do beleeve, <hi>Act.</hi> 13.48. <hi>but not</hi> becauſe they do beleeve, there<g ref="char:EOLhyphen"/>fore they are ordained to eternall life.</p>
+               <p n="180">180. He ſubjects his reaſon to his faith, <hi>but not</hi> his faith to his reaſon, in what his reaſon cannot comprehend or fathom.</p>
+               <p n="181">181 He beleeves that he's known in the world; <hi>and yet he beleeves</hi> that the
+<note n="b" place="margin">1 Joh. 3.1</note> world knows him not.</p>
+               <p n="182">182. He beleeves that whoſoever ſinneth,
+<pb n="24" facs="tcp:58076:15"/>hath not ſeen God,
+<note place="margin">1 Joh. 3.6</note> neither known him; <hi>and yet he beleeves</hi> that whoſoever hath ſeen God, or known him, hath ſinned and may ſin.</p>
+               <p n="183">183 He beleeves that though a man comes to an untimely end; <hi>yet</hi> his end comes not before it's time.</p>
+               <p n="184">184. He beleeves that Chriſt and his Father are two; <hi>and yet he beleeves</hi> that Chriſt and his Father are one, <hi>Joh.</hi> 10.30.</p>
+               <p n="185">185. He beleeves that by one man ſin en<g ref="char:EOLhyphen"/>tred into the world, <hi>Rom.</hi> 5.12. <hi>and yet he beleeves</hi> that ſin entred into the world more then by <hi>(the means of)</hi> one man.</p>
+               <p n="186">186 He beleeves that he is not to have the faith of our Lord Jeſus Chriſt with re<g ref="char:EOLhyphen"/>ſpect of perſons;
+<note place="margin">Jam. 2 1</note> 
+                  <hi>and yet he beleeves</hi> that he may, nay ought to reſpect thoſe perſons that have the faith of our Lord Jeſus Chriſt.</p>
+               <p n="187">187 He beleeves that the Lords portion is his people, <hi>Deut.</hi> 32.9. <hi>and that</hi> Gods peo<g ref="char:EOLhyphen"/>ples portion is the Lord, <hi>Lam.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.24.</p>
+               <p n="188">188. As he lives a faithfull life; ſo hee lives the life of faith, <hi>Gal.</hi> 2.20.</p>
+               <p n="189">189. Though life to him is better then all, <hi>Job</hi> 2.4. <hi>yet</hi> Chriſt to him is better then life.</p>
+               <p n="290">190. He beleeves that the ſoul ſhall never die; <hi>and yet he beleeves</hi> that that man, which hath not God, hath a dead ſoul.</p>
+               <pb n="25" facs="tcp:58076:15"/>
+               <p>
+                  <hi>For as the body is dead without the ſoul, ſo is the ſoul dead without God; he is the ſoul of our ſouls.</hi>
+               </p>
+               <p n="191">191. He beleeves that they which have not Paradiſe <hi>(or heaven)</hi> here, ſhall never have Paradiſe hereafter.</p>
+               <p n="192">192. He beleeves that godlineſſe is profi<g ref="char:EOLhyphen"/>table to all things;
+<note place="margin">1 Tim. 4.8</note> 
+                  <hi>but not</hi> all things profita<g ref="char:EOLhyphen"/>ble to godlineſſe.</p>
+               <p n="193">193. He beleeves he ſins if he love not father, and mother, &amp;c. from his heart, and from his ſoul; <hi>and yet hee beleeves</hi> he ſins if he love not God with all his heart, and with all his ſoul, <hi>Deut.</hi> 6.5.</p>
+               <p n="194">194. He beleeves that Chriſt was mani<g ref="char:EOLhyphen"/>feſted to take away his ſins, 1 <hi>Joh.</hi> 3.5. <hi>and yet he beleeves</hi> that ſin ſhall never <hi>(while hee lives)</hi> be quite taken away.</p>
+               <p n="195">195. He beleeves that every Covenant is a promiſe; <hi>but not</hi> every promiſe a Covenant.</p>
+               <p n="196">196. He beleeves that where ever there is ſpirituall life from the Spirit of life, it can<g ref="char:EOLhyphen"/>not be hid; he find<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſuch a life in him by the effects of it, <hi>and yet he beleeves</hi> that his life is hid with Chriſt in God, <hi>Col.</hi> 3.3.</p>
+               <p n="197">197. He beleeves that his treaſure is lockt up in heaven, not in earth;
+<note place="margin">Mat. 6.19</note> 
+                  <hi>and yet he beleeves</hi> that his
+<note n="a" place="margin">God.</note> Treaſure is neither lockt up in earth, or in heaven, but fils both.</p>
+               <pb n="26" facs="tcp:58076:16"/>
+               <p n="198">198. Hee beleeves that hee that doth righteouſneſſe is righteous;
+<note place="margin">1 Joh. 3.7</note> 
+                  <hi>and yet he be<g ref="char:EOLhyphen"/>leeves</hi> that he that is righteous, is not righte<g ref="char:EOLhyphen"/>ous by doing righteouſneſſe.</p>
+               <p n="199">199. He is one that's rich by riches invi<g ref="char:EOLhyphen"/>ſible, by wealth which the world knowes not of.</p>
+               <p n="200">200 He beleeves he cannot ſin, becauſe he is born of God, 1 <hi>Joh.</hi> 3.9. <hi>and yet he be<g ref="char:EOLhyphen"/>leeves</hi> that (though he be born of God) he doth ſin, and may ſin.</p>
+            </div>
+            <div type="part">
+               <head>The third Century.</head>
+               <p n="201">201. HE beleeves that many <hi>queſti<g ref="char:EOLhyphen"/>on</hi> their true love to God; whoſe true love to God is <hi>unqueſtionable.</hi>
+               </p>
+               <p n="202">202. He beleeves that what is inviſible cannot be ſeen <hi>and yet he beleeves</hi> that <hi>Moſes</hi> did ſee him,
+<note place="margin">Heb. 11.27</note> who is inviſible.</p>
+               <p n="203">203. What would prove to his hurt hee would not ask at any time; <hi>and yet he be<g ref="char:EOLhyphen"/>leeves</hi> that he asks many times thoſe things, which if God ſhould grant, would prove to his hurt.</p>
+               <p n="204">204. He beleeves that the children of
+<pb n="27" facs="tcp:58076:16"/>light are wiſer then the children of this world;
+<note place="margin">Luke 16.8</note> 
+                  <hi>and yet he beleeves</hi> that the chil<g ref="char:EOLhyphen"/>dren of this world are wiſer (in their ge<g ref="char:EOLhyphen"/>neration) then the children of light.</p>
+               <p n="205">205. He beleeves that when a man be<g ref="char:EOLhyphen"/>gins to live, he begins to die.</p>
+               <note n="*" place="margin">Our days</note>
+               <q>
+                  <l>They end</l>
+                  <l>When ſcarce begun;</l>
+                  <l>And ere we apprehend</l>
+                  <l>That we Begin to live, our life is done:</l>
+                  <l>Man, count thy dayes and if they flee too faſt</l>
+                  <l>For thy dull thoughts to count, count every day thy laſt.</l>
+               </q>
+               <p n="206">206. He beleeves he muſt not do good works to be ſeen of men; <hi>and yet he be<g ref="char:EOLhyphen"/>leeves</hi> that though he be ſeen of men, hee may and ought to do good works.</p>
+               <p n="207">207. He beleeves that God will never leave him, nor forſake him, <hi>Heb.</hi> 13.5. <hi>and yet</hi> complains many times (and that really) of being left and forſaken of God, <hi>Pſal.</hi> 22.1.</p>
+               <p n="208">208. He beleeves that all that are con<g ref="char:EOLhyphen"/>verted, are convicted; <hi>but not</hi> all that are convicted, converted.</p>
+               <p n="209">209. He beleeves that he ſhall never en<g ref="char:EOLhyphen"/>ter into the <hi>Kingdom</hi> of God; if Gods <hi>Kingdom</hi> do not firſt enter into him.</p>
+               <pb n="28" facs="tcp:58076:17"/>
+               <p n="210">210. He beleeves that when time is gone, it cannot be recall'd; <hi>and yet he be<g ref="char:EOLhyphen"/>leeves</hi> that one may be ſaid to recall time, when it's gone.</p>
+               <q>
+                  <l>Thy preſent time keep thou in high eſteem;</l>
+                  <l>Time that's paſt, if thou wouldſt recall't
+<note n="*" place="margin">Epheſ. 5.16 <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. redeeming the time, as it were to buy back again the time that is paſt.</note> redeem.</l>
+               </q>
+               <p n="211">211. He is often ſpeaking of the joy he hath <hi>(in beleeving); when as yet</hi> the joy he hath <hi>(in beleeving)</hi> is joy unſpeakable, 1 <hi>Pet.</hi> 1.8.</p>
+               <p n="212">212. He beleeves that God neither lives, nor hath a being in wicked men; <hi>and yet he beleeves</hi> that wicked men
+<note n="b" place="margin">Act. 17.28</note> live, move, and have their being in God.</p>
+               <p n="213">213. He beleeves that thoſe that are in the ſtate of grace may and do fall; <hi>and yet he beleeves</hi> that there's no falling from the ſtate of grace.</p>
+               <p n="214">214. He beleeves that God may <hi>grant</hi> what we ask, by <hi>denying</hi> it many times.</p>
+               <p n="215">215. He beleeves that he, which truly repents of his ſins, leaves his ſins; <hi>and yet he beleeves</hi> that one may leave his ſins, and not truely repent of his ſins.</p>
+               <p n="216">216. He beleeves that when Chriſt in<g ref="char:EOLhyphen"/>ſtituted the Sacrament,
+<note place="margin">Mat. 26.26, 28</note> he ſaid, This is my
+<pb n="29" facs="tcp:58076:17"/>Body, this is my Blood; <hi>and yet he beleeves</hi> that neither Chriſts
+<note n="a" place="margin">Subſtan<g ref="char:EOLhyphen"/>tially.</note> Body, nor Blood is in the Sacrament. <hi>Or thus.</hi>
+               </p>
+               <p n="217">217. He beleeves that when he receives the Sacrament, he receives the Body and Blood of Chriſt; <hi>and yet he beleeves</hi> it for an abſo<g ref="char:EOLhyphen"/>lute truth, that the Body, and Blood of Chriſt cannot be receiv'd in the Sacrament.</p>
+               <p n="218">218. He thinks it ſtrange to eat the fleſh, and drink the blood of an other man; <hi>and yet beleeves</hi> that except he eat the fleſh, and drink the blood of the Son of man, he hath no life in him, <hi>Joh.</hi> 6.53.</p>
+               <p n="219">219. He beleeves that the Samaritans fear<g ref="char:EOLhyphen"/>ed the Lord, 2 <hi>King.</hi> 17.32. <hi>&amp; yet he beleeves</hi> that they feared not the Lord, 2 <hi>Kin.</hi> 17.34.</p>
+               <p n="220">220. He beleeves that thoſe, who walk uprightly, God may with-hold from them many good things <hi>(of this life); and yet he beleeves</hi> that
+<note n="b" place="margin">Pſal. 84.11</note> no good thing wil God with-hold from thoſe that walk uprightly.</p>
+               <p n="221">221 He hath no wings to flee with; <hi>and yet</hi> is often flying up to heaven upon the Wings <hi>(of faith.)</hi>
+               </p>
+               <p n="222">222. He beleeves it's good to be thought well of; <hi>and yet he believes</hi> that to be thought well of and not to be good, is not good.</p>
+               <p n="223">223. He beleeves that the Apoſtles <hi>(ac<g ref="char:EOLhyphen"/>cording as
+<note n="c" place="margin">Joh. 16.13</note> Chriſt had promiſed)</hi> had the Spirit of truth, which did guide them into
+<pb n="30" facs="tcp:58076:18"/>all truth, <hi>and yet he beleeves</hi> that
+<note n="a" place="margin">Gal. 2 11, 12</note> 
+                  <hi>Peter</hi> erred, and was to be blamed.</p>
+               <p n="224">224. He beleeves that God the Son in e<g ref="char:EOLhyphen"/>quall with God the Father, <hi>Phil.</hi> 2.5.6. <hi>and yet he beleeves</hi> that God the Father is great<g ref="char:EOLhyphen"/>er then God the Son, <hi>(My Father is greater then I, ſaith Chriſt) Joh.</hi> 14.28.</p>
+               <p n="225">225. He beleeves that carnall men cannot be ſaid to be godly men; <hi>and yet he beleeves</hi> that godly men may be ſaid to be
+<note n="b" place="margin">In part; 1 Cor. 3.1</note> carnall.</p>
+               <p n="226">226. He beleeves that where ever he be, or what condition ſoever he is in, the Lord is not abſent from him;
+<note place="margin">2 Cor. 5.6</note> 
+                  <hi>and yet he beleeves</hi> that whileſt he is at home in the body, he is abſent from the Lord.</p>
+               <p n="227">227. He beleeves that whoſoever exalteth himſelf ſhall be abaſed;
+<note place="margin">Mat. 23.12</note> 
+                  <hi>and yet he beleeves</hi> that thoſe that are abaſed ſhall be exalted.</p>
+               <p n="228">228. He beleeves that though he be alone and without company; <hi>yet</hi> is not alone but with company.</p>
+               <p n="229">229. He is one whom Chriſt hath deli<g ref="char:EOLhyphen"/>vered from this preſent evil world;
+<note place="margin">Gal. 1.4.</note> 
+                  <hi>and yet</hi> meets with a world of evils.</p>
+               <p n="230">230. He beleeves that Chriſt is the Sonne of God the Father, and the Son of <hi>Mary</hi> his Mother; <hi>and yet he beleeves</hi> that he is not a
+<note n="c" place="margin">For he is not two-Perſons, but one Perſon in two Natures</note> double Son, or two Sons. <hi>And therefore,</hi>
+               </p>
+               <p n="231">231. He beleeves that <hi>Mary</hi> is to be na<g ref="char:EOLhyphen"/>med, not only the <hi>Mother of Chriſt,</hi> but alſo the <hi>Mother of God.</hi>
+               </p>
+               <pb n="31" facs="tcp:58076:18"/>
+               <p n="232">232. He beleeves that the Virgin <hi>Mary</hi> had
+<note n="a" place="margin">As all Di<g ref="char:EOLhyphen"/>vines do piouſly be<g ref="char:EOLhyphen"/>leeve.</note> no other ſons after Chriſt; <hi>and yet he beleeves</hi> that Chriſt was her
+<note n="b" place="margin">Luke 2.7</note> firſt-begotten Sonne.</p>
+               <p n="233">233. He complains many times of his hearts being from God; <hi>when as yet</hi> he is before God.</p>
+               <p n="234">234. He beleeves that a man may ask, and yet not obtain; <hi>when as yet</hi> he cannot obtain but he muſt ask.</p>
+               <p n="235">235. He beleeves that he doth not ſin in performing any duty God hath commanded him; <hi>and yet he beleeves</hi> that he can per<g ref="char:EOLhyphen"/>form no duty God hath commanded him without
+<note n="c" place="margin">Cleaving to it.</note> ſinne.</p>
+               <p n="236">236. He beleeves that the nature of every ſaint is good; <hi>and yet he beleeves</hi> that good<g ref="char:EOLhyphen"/>neſſe is not their nature.</p>
+               <p n="237">237. He finds that the way for any man to attain unto true <hi>peace,</hi> is to bee at <hi>variance</hi> with himſelf.</p>
+               <p n="238">238. He is many times ſilent, not uttering a word; <hi>and yet</hi> ſpeaking to God.</p>
+               <p n="239">239. He knows that a ſtone hath no life in it, <hi>and yet findes</hi> mention in Scripture of a <hi>Living ſtone,</hi> 1 <hi>Pet.</hi> 2.4.</p>
+               <p n="240">240. He beleeves that a man cannot be yong again when he is old; <hi>and yet he beleeves</hi> that an old man may be
+<note n="d" place="margin">In grace<g ref="char:punc">▪</g>
+                  </note> young.</p>
+               <p n="241">241. He beleeves that the world ſhall have an end; <hi>and yet he beleeves</hi> that Scripture
+<pb n="32" facs="tcp:58076:19"/>true, but the earth
+<note place="margin">* That is, till the day of judge<g ref="char:EOLhyphen"/>ment.</note> abideth or ever, <hi>Eccl.</hi> 1.4</p>
+               <p n="242">242. He beleeves that the perſons of the righteous <hi>(through Chriſt)</hi> are acceptable to God; <hi>and yet he beleeves</hi> that
+<note n="b" place="margin">Gal. 2.6</note> God accept<g ref="char:EOLhyphen"/>eth no mans perſon.</p>
+               <p n="243">243. Hee beleeves that there's none knows the Lords ſecrets, for
+<note n="c" place="margin">Deut. 29 <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>9</note> ſecret things belong onely to God; <hi>and yet he beleeves</hi> that the
+<note n="d" place="margin">Pſal. 25.14</note> ſecret of the Lord is with them that fear him.</p>
+               <p n="244">244. He is one that hath caſt up his ac<g ref="char:EOLhyphen"/>counts and made all even with God; and verily <hi>beleeves</hi> that God hath croſt the Book, and ſo freely hath forgiven him his debts, that he will never charge them any more upon him <hi>(ſo as to condemn him for them); and yet he beleeves</hi> that he muſt one day ſtand before the judgement ſeat of Chriſt,
+<note place="margin">Rom. 14.10, 11, 12</note> to give an account of himſelf unto God, according to that he hath done in the fleſh, whether it hath been good, or evil.</p>
+               <p n="245">245. He beleeves that none without ſinning can
+<note n="e" place="margin">Rom. 10 15</note> teach <hi>(or preach)</hi> except he be ſent; <hi>and yet he beleeves</hi> that the ſaints though they be not ſent, without ſinning may
+<note n="f" place="margin">Col. 3.16</note> teach <hi>(and admoniſh)</hi> one another.</p>
+               <p n="246">246. He beleeves that the Doctrine of God is ſo
+<note n="g" place="margin">Pſal. 19.7</note> perfect, that it needs no adorn<g ref="char:EOLhyphen"/>ing; <hi>and yet he beleeves</hi> that we are exhort<g ref="char:EOLhyphen"/>ed to
+<note n="h" place="margin">Tit. 2.10</note> adorn the Doctrine of God.</p>
+               <pb n="33" facs="tcp:58076:19"/>
+               <p n="247">247. He ſees, and beleeves that gain is ſome mens godlineſſe; and godlineſſe ſome mens gain.</p>
+               <p n="248">248. He verily thinks he ſins not in pray<g ref="char:EOLhyphen"/>ing; <hi>and yet</hi> when he hath prayed, he thinks he had need to ask pardon for his praying.</p>
+               <p n="249">249. He beleeves that God is willing that his people ſhould ſometimes be afflicted, &amp; grieved; <hi>(for many righteous ends) and yet he beleeves</hi> that God doth not
+<note n="a" place="margin">Lam. 3.33</note> afflict wil<g ref="char:EOLhyphen"/>lingly, nor grieve the children of men.</p>
+               <p n="250">250. He beleeves that afflictions are evils; <hi>and yet</hi> he thinks it
+<note n="b" place="margin">Pſal. 119.71</note> good for him to be afflicted.</p>
+               <p n="251">251. He beleeves God to be a Spirit, and ſo cannot be touched; <hi>and yet he beleeves</hi> that Scripture true, he that
+<note n="c" place="margin">Zach. 2.8</note> toucheth you, toucheth the apple of mine eye.</p>
+               <p n="252">252. Gods judgements do not terrifie him; <hi>and yet</hi> he cries out with <hi>David,</hi> I am
+<note n="d" place="margin">Pſal. 119.120</note> afraid of thy judgements.</p>
+               <p n="253">253. He beleeves that the Lord <hi>killeth</hi> the ſoul; when he intends to make it <hi>alive,</hi> 1 <hi>Sam.</hi> 2.6.</p>
+               <p n="254">254. He beleeves that in Chriſt ſhall all be made alive, 1 <hi>Cor.</hi> 15.22. <hi>and yet he be<g ref="char:EOLhyphen"/>leeves</hi> that
+<note n="e" place="margin">All ſhall be raiſed by Chriſt (and ſo made alive) but not to life everlaſting.</note> all ſhall not be made alive in Chriſt. <hi>Dan.</hi> 12.2.</p>
+               <p n="255">255. He beleeves that the <hi>Devil</hi> is no
+<pb n="34" facs="tcp:58076:20"/>Angel of light, nor never ſhall be; <hi>and yet hee beleeves</hi> that he is many times transfor<g ref="char:EOLhyphen"/>med into an Angel of light, 2 <hi>Cor.</hi> 11.14.</p>
+               <p n="256">256. He beleeves that there's no folly <hi>(or ſin)</hi> in the good Angels; <hi>and yet he beleeves</hi> the words of
+<note n="a" place="margin">Iob 4.18</note> 
+                  <hi>Eliphaz</hi> true, and his An<g ref="char:EOLhyphen"/>gels he chargeth with folly.</p>
+               <p n="257">257. He is the patient'ſt man living; <hi>yet</hi> none ſo
+<note n="b" place="margin">For he will bear with any thing rather then with ſin.</note> impatient as he.</p>
+               <p n="258">258. He beleeves that money anſwereth all things, <hi>Eccleſ.</hi> 10.19. <hi>and yet he beleeves</hi> that there are many things to which money
+<note n="c" place="margin">Pſal. 49 6, 7, 8, 9 Pſal. 103.9 &amp; 30.5, &amp;c.</note> anſwereth not.</p>
+               <p n="259">259. He beleeves that God is ſaid in ſcrip<g ref="char:EOLhyphen"/>ture to be ſlow to anger, not eaſily provo<g ref="char:EOLhyphen"/>ked; again that he will not keep his anger for ever, and again, that his anger endureth but a moment; <hi>and yet he beleeves</hi> that God is
+<note n="d" place="margin">Pſal. 7.11</note> angry with the wicked every day.</p>
+               <p n="260">260. He beleeves that except he calls, God will not anſwer; <hi>and yet he beleeves</hi> that God doth <hi>(ſometimes)</hi> anſwer him, even before he calls.</p>
+               <p n="261">261. He beleeves that he that beleeveth on the Father, <hi>(ſavingly)</hi> beleeveth on the Son alſo; <hi>and yet he beleeves</hi> Chriſt words are true, he that beleeveth on me,
+<note n="e" place="margin">Joh. 12.44</note> beleeveth not on me, but on him that ſent me.</p>
+               <p n="262">262. He beleeves that no man can come unto the Father but by
+<note n="f" place="margin">Ioh. 14.6</note> Chriſts means; <hi>and
+<pb n="35" facs="tcp:58076:20"/>yet he beleeves</hi> that no man can come unto Chriſt but by the
+<note n="a" place="margin">Joh. 6.44</note> Fathers means, (except the Father draw him.)</p>
+               <p n="263">263. He beleeves that according to the appearance of men in their converſations, ſo he may judge of them; <hi>and yet</hi> ſaith Chriſt, Judge not according to the appearance, <hi>Joh.</hi> 7.24.</p>
+               <p n="264">264. He beleeves that the grace of God hath appeared to all men, <hi>Tit.</hi> 2.11. <hi>and yet he beleeves</hi> that all men have not the
+<note n="b" place="margin">In their hearts.</note> ap<g ref="char:EOLhyphen"/>pearance of the grace of God.</p>
+               <p n="265">265. He beleeves that it's appointed to all men but once to die; <hi>and yet he beleeves</hi> that there are ſome men, who are
+<note n="c" place="margin">Jude 12</note> twice dead, plucked up by the roots.</p>
+               <p n="266">266. He is a man though unarmed; <hi>yet</hi> hath on him continually the whole armour of God, <hi>Epheſ.</hi> 6.11.</p>
+               <p n="267">267. He beleeves that whoſoever be<g ref="char:EOLhyphen"/>leeveth on Chriſt ſhall not be
+<note n="d" place="margin">Rom. 10.11</note> aſhamed; <hi>and yet he beleeves</hi> that none are more aſha<g ref="char:EOLhyphen"/>med <hi>(of themſelves)</hi> then thoſe that beleeve on Chriſt.</p>
+               <p n="268">268. He beleeves that Chriſt hath <hi>f</hi> com<g ref="char:EOLhyphen"/>manded him to give to him that asketh;
+<note n="e" place="margin">Mat. 6.42</note> 
+                  <hi>and yet he beleeves</hi> that to every one that asketh he is not <hi>(bound)</hi> to give.</p>
+               <p n="269">269. He beleeves that one may have grace without aſſurance; <hi>but</hi> not aſſurance with<g ref="char:EOLhyphen"/>out grace.</p>
+               <pb n="36" facs="tcp:58076:21"/>
+               <p n="270">270. He beleeves that
+<note n="a" place="margin">Rom. 12.19</note> revenge is no way godly; <hi>and yet he beleeves</hi> there's a
+<note n="b" place="margin">2 Cor. 7.11</note> godly revenge.</p>
+               <p n="271">271. He beleeves that many men even while they are awake,
+<note place="margin">Rom. 13.11</note> 
+                  <hi>are yet</hi> aſleep <hi>(in ſin.)</hi>
+               </p>
+               <p n="272">272. He beleeves that in the beginning was the Word, <hi>Joh.</hi> 1.1. <hi>and yet hee beleeves</hi> that the
+<note n="c" place="margin">Any writ<g ref="char:EOLhyphen"/>ten word, which was not till <hi>Moſes.</hi>
+                  </note> Word was not in the beginning.</p>
+               <p n="273">273. He beleeves that Chriſt was be<g ref="char:EOLhyphen"/>gotten of the Father from eternity, before ever there were any dayes; <hi>and yet hee be<g ref="char:EOLhyphen"/>leeves</hi> that
+<note n="d" place="margin">Pſal. 2.7</note> Scripture true, wherein God ſaith to Chriſt, thou art my Son, <hi>this day</hi> have I begotten thee.</p>
+               <p n="274">274. He beleeves 'twas truth which <hi>Ba<g ref="char:EOLhyphen"/>laam</hi> ſaid,
+<note place="margin">Num. 23.21</note> He hath not beheld iniquity in <hi>Ja<g ref="char:EOLhyphen"/>cob,</hi> neither hath he ſeen perverſeneſſe in <hi>Iſ<g ref="char:EOLhyphen"/>rael; and yet he beleeves</hi> that God did ſee both perverſeneſſe in <hi>Iſrael,</hi> and iniquity in <hi>Jacob.</hi>
+               </p>
+               <p n="275">275. He beleeves that God is the Savi<g ref="char:EOLhyphen"/>our of all men, 1 <hi>Tim.</hi> 4.10. <hi>and yet he be<g ref="char:EOLhyphen"/>leeves</hi> that all men ſhal not be ſaved by God</p>
+               <p n="276">276. He beleeves that ſome may be blind, <hi>and yet</hi> ſee; and that others may ſee, <hi>and yet</hi> be blind. <hi>And,</hi>
+               </p>
+               <p n="277">277. He beleeves that ſome may be deaf, <hi>and yet hear;</hi> and that others may hear, <hi>and yet</hi> be deaf.
+<note place="margin">Luke 8.10</note>
+               </p>
+               <p n="278">278. He beleeves that when he riſeth
+<pb n="37" facs="tcp:58076:21"/>again at the laſt day, he ſhall not
+<note n="a" place="margin">Job 19.26, 27</note> change his bod<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; <hi>and yet he beleeves</hi> that his
+<note n="b" place="margin">1 Cor. 15.22</note> body ſhall be changed.</p>
+               <p n="279">279. He beleeves that the righteous are as bold as a Lion; <hi>and yet he beleeves</hi> there are none ſo
+<note n="c" place="margin">Of offend<g ref="char:EOLhyphen"/>ing God, &amp;c.</note> fearfull, or ſo full of fear as they.</p>
+               <p n="280">280. He beleeves that <hi>Davids</hi> bones were not broken; <hi>though</hi> he cried out,
+<note place="margin">Pſal. 51.8</note> Make me to he<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> joy and gladneſs, that the bones which thou haſt <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ken may rejoyce.</p>
+               <p n="281">281. H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e beleeves that God remembers all thing<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> without a book to put him in mind; <hi>and yet he beleeves</hi> that a book of re<g ref="char:EOLhyphen"/>membrance is written before him for them that fear the LORD,
+<note place="margin">Mal. 3.16</note> and think upon his Name.</p>
+               <p n="182">282. He beleeves that bread hath no life in it; <hi>and yet he beleeves</hi> that the ſaints feed daily upon
+<note n="d" place="margin">Joh. 6.51</note> 
+                  <hi>Living bread.</hi>
+               </p>
+               <p n="283">283. He beleeves that whoſoever com<g ref="char:EOLhyphen"/>mitteth ſin is the ſervant of ſin, <hi>Joh.</hi> 8.34. <hi>and yet he beleeves</hi> that he is not ſins ſervant, though he committeth ſin.</p>
+               <p n="284">284. He bele<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ves that the ſaints are not compleated in this life; <hi>and yet he beleeves</hi> that they are
+<note n="e" place="margin">Col. 2.10<g ref="char:punc">▪</g>
+                  </note> compleat in Chriſt.</p>
+               <p n="285">285. He is an abſolute enemy againſt Au<g ref="char:EOLhyphen"/>ricular confeſſion; <hi>and yet beleeves</hi> that we may and ought to confeſſe our faults one to another, <hi>Jam.</hi> 5.16.</p>
+               <pb n="38" facs="tcp:58076:22"/>
+               <p n="286">286. He thinks it folly for a man to com<g ref="char:EOLhyphen"/>mend himſelf; <hi>and yet he thinks</hi> that a man may
+<note n="a" place="margin">As <hi>Paul</hi> did for the vindication of himſelf, 2 Cor. 11.12</note> commend himſelf without folly.</p>
+               <p n="287">287. He knows he is not to contemn the perſon of any man; <hi>and yet</hi> is one in whoſe eyes a vile perſon is contemned, <hi>Pſal.</hi> 15.4.</p>
+               <p n="288">288. He beleeves that the dead cannot hear; <hi>and yet he beleeves</hi> that the dead ſhall hear the voyce of the Sonne of God, <hi>Joh.</hi> 5.25.</p>
+               <p n="289">289 He beleeves that he was once dead for ſome years;
+<note place="margin">Luk. 15 32</note> 
+                  <hi>and yet he beleeves</hi> that his ſoul was never ſeparated from his body.</p>
+               <p n="290">290. He beleeves that bread, though it be the ſtaffe of life, yet cannot continue mans life for ever; <hi>and yet he beleeves</hi> that there is ſuch bread of which whoſoever eateth ſhall live for ever.
+<note place="margin">Joh. 6.58</note>
+               </p>
+               <p n="291">291. He beleeves that Chriſt was cruci<g ref="char:EOLhyphen"/>fied and put to an open ſhame but once;
+<note place="margin">Heb. 9.28</note> 
+                  <hi>and yet he beleeves</hi> that Chriſt <hi>(by ſome)</hi> hath been crucified afreſh,
+<note place="margin">Heb. 6.6</note> and put to an open ſhame.</p>
+               <p n="292">292. He is one, who though he live in the World; <hi>yet</hi> hath an other world to live in. <hi>Or thus,</hi>
+               </p>
+               <p n="293">293. He is one who though he be in the World; <hi>yet</hi> is not of the World, <hi>Joh.</hi> 17.16.</p>
+               <pb n="39" facs="tcp:58076:22"/>
+               <p n="294">294. He is one that is dead to ſin; <hi>but</hi> not dead in ſin.</p>
+               <p n="295">295. He beleeves that God hardens ſome mens hearts, <hi>Rom</hi> 9.18. <hi>and yet he beleeves</hi> that they harden themſelves, <hi>Exod.</hi> 8.15.</p>
+               <p n="296">296. He beleeves that Chriſt cannot be ſeen now by any, till he comes to judge<g ref="char:EOLhyphen"/>ment; <hi>and yet he beleeves</hi> that there are ma<g ref="char:EOLhyphen"/>ny that feed him, refreſh him, entertain him,
+<note place="margin">Mat. 25.35, 36</note> clothe him, and viſit him every day.</p>
+               <p n="297">297. He beleeves that whoſoever ſhall
+<note n="a" place="margin">Mat. 10.32</note> confeſſe Chriſt before men, him will Chriſt confeſſe before his Father; <hi>and yet he beleeves</hi> that before his Father Chriſt may not confeſſe ſome, who yet may (poſſibly)
+<note n="b" place="margin">1 Cor. 13.3</note> confeſſe him before men.</p>
+               <p n="298">298. He beleeves that from death can no man be delivered though never ſo righte<g ref="char:EOLhyphen"/>ous; <hi>and yet he beleeves</hi> that righteouſneſs delivereth from death, <hi>Pro.</hi> 10.2.</p>
+               <p n="299">299. He thinks faith <hi>(if true)</hi> cannot be dead; <hi>and yet</hi> he thinks there's a
+<note n="c" place="margin">Jam. 2.<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </note> dead faith.</p>
+               <p n="300">300. He beleeves that many may know God, <hi>Tit.</hi> 1.16. who <hi>yet</hi> have not the know<g ref="char:EOLhyphen"/>ledge of him, 1 <hi>Cor.</hi> 15.34.</p>
+            </div>
+            <div type="part">
+               <pb n="40" facs="tcp:58076:23"/>
+               <head>The fourth Century.</head>
+               <p n="301">301. HE thinks hee was never caught up <hi>(with Paul)</hi> in<g ref="char:EOLhyphen"/>to the third Heaven;
+<note place="margin">2 Cor. 12.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> 
+                  <hi>and yet</hi> he finds his heart to be ever there.</p>
+               <p n="302">302. He beleeves that he was never caught up into Paradiſe; <hi>and yet</hi> while his heart is with God in heaven, he many times hears Words unſpeakable, and en<g ref="char:EOLhyphen"/>joyes that from God, which for his life he cannot utter.</p>
+               <p n="303">303. He knows that dead men are able to do nothing;
+<note place="margin">Mat. 8.22</note> 
+                  <hi>and yet he beleeves the text,</hi> Let the dead bury their dead.</p>
+               <p n="304">304. He beleeves that a dead man is no living man; <hi>and yet he beleeves</hi> that a living man may be a dead man.</p>
+               <p n="305">305. He thinks he ſins if he make not God all his delight; <hi>and yet</hi> he thinks he ſins not, though
+<note n="a" place="margin">Pſal. 16.3</note> all his delight be in the Saints.</p>
+               <p n="306">306. He beleeves that the death of the righteous,
+<note place="margin">Eccleſ. 9.2</note> and their latter end is much like to the wickeds, <hi>(for death comes alike to
+<pb n="41" facs="tcp:58076:23"/>all;) and yet he beleeves</hi> that no wicked man ſhall die the death of the righteous,
+<note place="margin">Num. 23.10</note> neither ſhall his latter end be like unto his.</p>
+               <p n="307">307. He doth not know <hi>
+                     <g ref="char:punc">▪</g>to the full<g ref="char:punc">▪</g>
+                  </hi> his own heart, <hi>Jer.</hi> 17.9. <hi>and yet</hi> makes known <hi>(or layes open)</hi> his whole heart to God.</p>
+               <p n="308">308. He is no deſperate ſinner;
+<note place="margin">Jer. 17.9</note> 
+                  <hi>and yet</hi> cries out that his heart is deſperately wicked.</p>
+               <p n="309">309. He is no deceitfull man; <hi>and yet beleeves</hi> that his heart is full of deceit.</p>
+               <p n="310">310. He beleeves that the Lord will be as good as his word, that the deſire of the righteous ſhall be granted, <hi>Prov.</hi> 10.24. he findes the Lord <hi>(many times)</hi> not granting his deſire, <hi>and yet he beleeves</hi> he is as good as his word.</p>
+               <p n="311">311. He ſees <hi>(to his grief)</hi> that Gods Mi<g ref="char:EOLhyphen"/>niſters are deſpiſed; <hi>and yet he beleeves</hi> that they, which deſpiſe,
+<note place="margin">1 Theſ. 4.8</note> deſpiſe not Gods Mi<g ref="char:EOLhyphen"/>niſters, but God.</p>
+               <p n="312">312. He beleeves that Chriſt came not to deſtroy the Law;
+<note place="margin">Mat. 5.17</note> 
+                  <hi>and yet hee beleeves</hi> that the Law <hi>(of Ceremonies)</hi> is deſtroyed <hi>(or aboliſhed)</hi> by Chriſt.</p>
+               <p n="313">313. He beleeves that the wicked are not in trouble like other men, <hi>Pſal.</hi> 73.5. and yet he beleeves that there is no peace to the wicked, <hi>Eſay</hi> 48.22.</p>
+               <p n="314">314. He beleeves that a man ſhall live again though he die; <hi>and yet he beleeves</hi> that
+<pb n="42" facs="tcp:58076:24"/>when a man is once dead, he ſhall never live again, <hi>Job</hi> 17.17.</p>
+               <p n="315">315. He beleeves that Chriſt died for the
+<note n="a" place="margin">Rom. 5.6</note> ungodly; <hi>and yet he beleeves</hi> there are un<g ref="char:EOLhyphen"/>godly ones Chriſt never died for.</p>
+               <p n="316">316. He beleeves that God will reward him for his well doing;
+<note place="margin">Mat. 5.12 Col. 3.24 Heb. 10.35</note> 
+                  <hi>and yet he beleeves</hi> that he deſerves <hi>(or merits)</hi> no reward though he doth never ſo well.</p>
+               <p n="317">317. He beleeves that ſin may tyrannize in him; <hi>but</hi> ſhall never King it over him.</p>
+               <p n="318">318. He never heard of any that had two tongues; <hi>and yet</hi> verily <hi>beleeves</hi> there are many that are double tongued, 1 <hi>Tim.</hi> 3.8.</p>
+               <p n="319">319. He beleeves that where ever true faith is, there be doubtings; <hi>but not</hi> where ever there be doubtings there is true faith.</p>
+               <p n="320">320. He knows there's no compariſon be<g ref="char:EOLhyphen"/>tween a drop of a bucket, and all the nations of the World; <hi>and yet hee beleeves</hi> that all the nations of the World are but as a drop of a bucket
+<note n="b" place="margin">Compar'd to God. Eſay 40.15 Eſay 29.13</note>.</p>
+               <p n="321">321. He beleeves that one may draw neer to God; <hi>when as yet</hi> he removes him<g ref="char:EOLhyphen"/>ſelf far from him.</p>
+               <p n="322">322. He cannot avoid it but that ſome<g ref="char:EOLhyphen"/>times the things of the earth muſt be in his mind;
+<note place="margin">Phil. 3.19</note> 
+                  <hi>and yet</hi> he is one who minds not earthly things.</p>
+               <p n="323">323 He thinks many may die peaceably; who <hi>yet</hi> die not in peace.</p>
+               <pb n="43" facs="tcp:58076:24"/>
+               <p n="324">324 He beleeves that his end <hi>(when it ſhall be)</hi> cannot be known; <hi>and yet</hi> he prayes with <hi>David,</hi> Lord,
+<note place="margin">Pſal. 39.4</note> make me to know mine end.</p>
+               <p n="325">325. He beleeves that no man labours but for an end; <hi>and yet hee beleeves</hi> that there's no
+<note n="a" place="margin">Eccleſ. 4.8 Eccleſ. 7 8</note> end of ſome mens labour.</p>
+               <p n="326">326. He beleeves that better is the end of a thing, then the beginning thereof;
+<note place="margin">Mat. 12.45</note> 
+                  <hi>and yet he beleeves (wo and alas!)</hi> that the be<g ref="char:EOLhyphen"/>ginning of ſome is better then their end.</p>
+               <p n="327">327. He beleeves that he may rejoyce at the fall of the enemies of the Church of God; <hi>and yet</hi> ſaith <hi>Solomon,</hi>
+                  <note place="margin">Prov. 24 17</note> rejoyce not when thine enemy falleth.</p>
+               <p n="328">328. He cries out with <hi>David,</hi> Lord, who can underſtand his errours?
+<note place="margin">Pſal. 19.12</note> 
+                  <hi>and yet</hi> he makes known his errours to God.</p>
+               <p n="329">329. He beleeves that to the juſt there happens
+<note n="b" place="margin">Pſa. 34.19</note> many evils, <hi>and yet he beleeves</hi> that there ſhall no evil happen to the juſt, <hi>Prov.</hi> 12.21.</p>
+               <p n="330">330. He beleeves that the heart <hi>(or ſoul)</hi> of a wicked man is of more worth then all the World;
+<note place="margin">Mark 8.36</note> 
+                  <hi>and yet he beleeves</hi> that the heart of the wicked is little worth, <hi>Prov.</hi> 10.20.</p>
+               <p n="331">331. He beleeves that God is not, nor can he be the Authour of the evil of ſin; <hi>and yet ſaith the text,</hi> ſhall there be evil in a city,
+<note place="margin">Amos 3.6</note> and the Lord hath not done it.</p>
+               <pb n="44" facs="tcp:58076:25"/>
+               <p n="332">332. He beleeves that many receive mercies from God; who <hi>yet</hi> do not receive God in thoſe mercies.</p>
+               <p n="333">333. He beleeves that the Spirit of God raiſed up Chriſt from the dead;
+<note place="margin">Rom 8.11 Joh. 2.19</note> 
+                  <hi>and yet he beleeves</hi> that he raiſed himſelf.</p>
+               <p n="334">334 He beleeves that worſhip is due one<g ref="char:EOLhyphen"/>ly to God; <hi>and yet he beleeves</hi> that to many men and Angels there is a kind of worſhip due.</p>
+               <p n="335">335. He beleeves that the Holy Ghoſt
+<note n="a" place="margin">Theſe are ſpoken <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, and muſt be underſtood <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> ſpeaketh from God, receiveth from God, is ſent of God, is the gift of God; <hi>and yet he beleeves</hi> that he is God himſelf.</p>
+               <p n="336">336. He beleeves that Chriſt went from his Diſciples, (<hi>for ſaith he, it is</hi> a <hi>expedient for you that I go away</hi>);
+<note n="b" place="margin">Joh 16.7 Mat. 28.20</note> 
+                  <hi>and yet he beleeves</hi> that he was with them alwayes, even to the end.</p>
+               <p n="337">337. He beleeves that God hath no eye<g ref="char:EOLhyphen"/>lids; <hi>and yet he beleeves</hi> that his eye-lids try the children of men, <hi>Pſal.</hi> 11.4.</p>
+               <p n="338">338. He beleeves that the eyes of the Lord are only upon the righteous,
+<note n="c" place="margin">For good.</note> 
+                  <hi>Pſal.</hi> 34.15 <hi>and yet he beleeves</hi> that they are upon the wicked, 2 <hi>Sam.</hi> 22.28.</p>
+               <p n="339">339. He beleeves that many to whom the Lord hath given hearts to perceive, eyes to ſee,
+<note place="margin">Deut. 29.2, 3, 4.</note> ears to hear; do <hi>yet</hi> neither hear with their ears, nor ſee with their eyes,
+<pb n="45" facs="tcp:58076:25"/>nor perceive with their hearts even unto this day.</p>
+               <p n="340">340. He beleeves that he that hath a bountifull eye ſhall be bleſſed;
+<note place="margin">Prov. 29.9</note> 
+                  <hi>and yet he beleeves</hi> that ſome ſhall never be bleſſed,
+<note place="margin">1 Cor. 13.3</note> who yet may have a bountifull <hi>(or charita<g ref="char:EOLhyphen"/>ble)</hi> eye.</p>
+               <p n="341">341. He beleeves that ſome,
+<note place="margin">Prov. 23.6</note> 
+                  <hi>(though their eyes be never ſo good, yet)</hi> have an evil eye.</p>
+               <p n="342">342. He beleeves that if a mans eye be evil (though he ſee the light never ſo well,
+<note place="margin">Mat. 6.23</note> 
+                  <hi>yet</hi>) he is in darkneſſe.</p>
+               <p n="343">343. He beleeves that <hi>Peter</hi> did fail in his faith; <hi>and yet he beleeves</hi> that his faith did not fail him, <hi>Luke</hi> 22.32.</p>
+               <p n="344">344. He beleeves that none can be ſo ho<g ref="char:EOLhyphen"/>ly, as God is holy;
+<note place="margin">1 Pet. 1.15, 18</note> 
+                  <hi>and yet he beleeves</hi> he were not right, were he not holy, as God is holy.</p>
+               <p n="345">345. He beleeves that it is the blood of Chriſt, which alone purifieth every ſaint;
+<note place="margin">Heb. 9.13, 14 Rev. 1.5</note> 
+                  <hi>and yet he beleeves</hi> that every ſaint purifi<g ref="char:EOLhyphen"/>eth himſelf, 1 <hi>Joh.</hi> 3.3.</p>
+               <p n="346">346. He vehemently preſſeth after that, which he knows he can never attain; <hi>and yet he beleeves</hi> that his labour is not, neither ſhall be in vain.</p>
+               <p n="347">347. He meets with ſome that are full of faith, and faithfull; <hi>and yet</hi> ſaith <hi>Solomon,</hi>
+                  <pb n="46" facs="tcp:58076:26"/>a faithfull man who can finde?
+<note place="margin">Prov. 20.6</note>
+               </p>
+               <p n="348">348. He beleeves that ſome abound not in (worldly) bleſſings, who yet are faith<g ref="char:EOLhyphen"/>full; <hi>and yet he beleeves</hi> that a faithfull man ſhall abound in bleſſings, <hi>Prov.</hi> 28.20.</p>
+               <p n="349">349. He beleeves who ever is truely godly, ſhall never fall away; <hi>and yet he be<g ref="char:EOLhyphen"/>leeves</hi> who ever is truely godly had need of this caution, let him that thinks he ſtandeth, take heed leſt he fall, 1 <hi>Cor.</hi> 10.12.</p>
+               <p n="350">350. He beleeves there may be a famine in a Land; wherein there is not the famine, <hi>Amos.</hi> 8.11.</p>
+               <p n="351">351. He beleeves that God is not a Father <hi>(in Chriſt)</hi> to all; <hi>and yet hee beleeves</hi> wee have all one Father, <hi>Amos</hi> 2.10.</p>
+               <p n="352">352. He thinks a man may be
+<note n="a" place="margin">Truſty.</note> faithfull; <hi>who yet</hi> may not be a
+<note n="b" place="margin">A believer</note> a faithfull man.</p>
+               <p n="353">353. He beleeves that the Son <hi>(the ſecond Perſon in the Trinity)</hi> is not the Father, <hi>(the firſt Perſon in the Trinity); and yet he beleeves</hi> that the Son of God <hi>(Jeſus Chriſt)</hi> is the Everlaſting Father, <hi>Eſay</hi> 9.6.</p>
+               <p n="354">354. He beleeves that God is the God of the
+<note n="c" place="margin">Rev. 14.13</note> dead, which die in the Lord; <hi>and yet he beleeves</hi> that God is not the God of the
+<note n="d" place="margin">Mat. 22.32</note> dead, but of the living.</p>
+               <p n="355">355. He beleeves there are three that bear record in Heaven,
+<note place="margin">1 Joh. 5.7</note> the Father, the Word,
+<pb n="47" facs="tcp:58076:26"/>and the Holy Ghoſt; <hi>and yet hee beleeves</hi> that theſe three are one.</p>
+               <p n="356">356. He beleeves that one that hath a Fa<g ref="char:EOLhyphen"/>ther; may <hi>yet</hi> be Fatherleſſe, <hi>Hoſ.</hi> 14.3.</p>
+               <p n="357">357. He is not content that God ſhould put him off with food and raiment <hi>(and no more); and yet</hi>
+                  <note n="a" place="margin">1 Tim 6.8</note> having food and raiment he is therewith content.</p>
+               <p n="358">358. He beleeves that many that are firſt ſhall be laſt; <hi>and</hi> many that are laſt, ſhall be firſt, <hi>Mat.</hi> 19.30.</p>
+               <p n="359">359. He beleeves that they which die in the Lord, do reſt from their labours;
+<note place="margin">Rev. 14.13</note> 
+                  <hi>and yet he beleeves</hi> that their labours, and their works follow them.</p>
+               <p n="360">360. He beleeves <hi>(to his grief)</hi> that from ſinne he is not free; <hi>and yet he beleeves</hi> that he is made free from ſin, <hi>Rom.</hi> 6.18.</p>
+               <p n="361">361. He beleeves the day of his <hi>death,</hi>
+                  <note place="margin">Wee ſay falſly, when wee call death the laſt day.</note> to be the day of his <hi>birth,</hi> or his <hi>birth<g ref="char:EOLhyphen"/>day.</hi>
+               </p>
+               <p n="362">362. He thinks one may know Chriſt; <hi>and yet</hi> Chriſt unknown to him.</p>
+               <p n="363">363. He beleeves that when he ſleeps hee is not dead <hi>and yet hee beleeves</hi> that when he is dead he ſhall but ſleep, <hi>Acts</hi> 7.60.</p>
+               <p n="364">364. He beleeves that when a man is an<g ref="char:EOLhyphen"/>gry with him he may ſeek his friendſhip; <hi>and yet he beleeves</hi> he muſt make no friend<g ref="char:EOLhyphen"/>ſhip
+<pb n="48" facs="tcp:58076:27"/>with an angry man, <hi>Proverbs</hi> 22.24.</p>
+               <p n="365">365. He beleeves that the Saints are ſuch that are of a clean heart;
+<note place="margin">Pſal. 73.1</note> 
+                  <hi>and yet he beleeves</hi> none can ſay, I have made my heart clean, <hi>Prov.</hi> 20.9.</p>
+               <p n="366">366. He beleeves that the World's to be
+<note n="a" place="margin">Acts 10.42</note> judg'd by Chriſt; <hi>and yet hee beleeves</hi> that the Saints ſhall
+<note n="b" place="margin">1 Cor. 6.2</note> judge the World.</p>
+               <p n="367">367. He beleeves that his ſoul, which is lifted up, is not upright in him, <hi>Hab.</hi> 2.4. <hi>and yet he beleeves</hi> that his ſoul is upright in him though it be lifted up, <hi>Pſal.</hi> 25.1.</p>
+               <p n="368">368. He beleeves that a Chriſtleſſe man (though with <hi>Dives,</hi>
+                  <note place="margin">Luk. 16.19</note> clothed in purple, and fine linen, <hi>yet</hi>) is but a naked man.</p>
+               <p n="369">369. He beleeves a <hi>Sonne</hi> to be before his <hi>Mother.</hi>
+               </p>
+               <p n="370">370. He beleeves there's an emptineſſe, in all the worlds fulneſſe.</p>
+               <q>
+                  <l>For what's this maſſie Glob,</l>
+                  <l>but ſuch a thing,</l>
+                  <l>Which when I ſound, it's empty</l>
+                  <l>nothing's in.</l>
+               </q>
+               <p n="371">371. He beleeves that he's well known;
+<note place="margin">2 Cor 8.9 Pſ. 119.19</note> 
+                  <hi>and yet</hi> profeſſeth, I am a ſtranger in the earth.</p>
+               <pb n="49" facs="tcp:58076:27"/>
+               <p n="372">372. He beleeves that ſome, who be poor; are <hi>yet</hi> making many rich, 2 <hi>Cor.</hi> 6.10.</p>
+               <p n="373">373. He beleeves that a good man, may be an
+<note n="a" place="margin">As Chriſts own Diſci<g ref="char:EOLhyphen"/>ples were ignorant in many things; ſo &amp;c.</note> ignorant man; <hi>and yet hee beleeves</hi> without knowledge the mind is not good, <hi>Prov.</hi> 19.2.</p>
+               <p n="374">374. Though he hath but <hi>from hand to mouth; yet</hi> no man living fares ſo well as he doth.</p>
+               <p n="375">375. He beleeves that there's but one Kingdom of Glory,
+<note place="margin">Tit. 3.7</note> which all the Saints ſhall hereafter enjoy;
+<note place="margin">1 Pet. 5.4</note> 
+                  <hi>and yet he beleeves</hi> that every Saint ſhall hereafter be made an heir of no leſſe then a Kingdom,
+<note place="margin">Rev. 2.20</note> and ſhall enjoy a Glorious Crown, a Crown of Glory.</p>
+               <p n="376">376. He beleeves that he hath the whole heart of Jeſus Chriſt; <hi>and yet he beleeves</hi> that Jeſus Chriſt gives his whole heart to every beleever.</p>
+               <p n="377">377. He beleeves that God will not ac<g ref="char:EOLhyphen"/>cept of purpoſes without performances;
+<note place="margin">2 Cor. 8.12</note> 
+                  <hi>and yet he beleeves</hi> that God accepts of his purpoſes for performances.</p>
+               <p n="378">378. He knows ſelf-love to be a ſinne; <hi>and yet</hi> none loves himſelf more then he, <hi>Prov.</hi> 19.8.</p>
+               <p n="379">379. He knows that God is not ignorant of his wants; <hi>and yet</hi> is often putting God in mind of them.</p>
+               <pb n="50" facs="tcp:58076:28"/>
+               <p n="380">380. He beleeves that the thoughts of that which is good,
+<note place="margin">Good thoughts are ſinfull when they come not in their ſeaſon.</note> are not ſinfull; <hi>and yet he beleeves</hi> he may ſin in thinking upon that which is good.</p>
+               <p n="381">381. He beleeves that a <hi>finite</hi> creature ſhall be made partaker of an <hi>infinite</hi> hap<g ref="char:EOLhyphen"/>pineſſe.</p>
+               <p n="382">382 He is every day grieving to ſee how the ſaints are loath<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, and abhorr'd by others;
+<note place="margin">Job 40.4. &amp; 42.16</note> 
+                  <hi>and yet</hi> he is every day loathing and abhorring himſelf, and grieves not at it.</p>
+               <p n="383">383. He beleeves that weake grace will bring his ſoul to <hi>heaven;</hi> but it's the ſtrength of grace that will bring <hi>heaven</hi> in<g ref="char:EOLhyphen"/>to his ſoul.</p>
+               <p n="384">384. He is often complaining to God; <hi>and yet</hi> the contented'ſt man living.</p>
+               <p n="385">385. He beleeves that <hi>Timothy</hi> was <hi>Pauls</hi> ſonne, 1 <hi>Tim.</hi> 1.2. <hi>and yet he beleeves</hi> that <hi>Paul</hi> was not <hi>Timothies</hi> father, <hi>Acts</hi> 16.1.</p>
+               <p n="386">386. He thinks he may die ſooner then he thought; <hi>and yet</hi> he thinks he ſhall not die ſooner then he would.</p>
+               <p n="387">387. He beleeves that death may kill him; <hi>and yet he beleeves</hi> that death cannot hurt him.</p>
+               <p n="388">388. There's none ſo ſlighted, diſgraced, and vilified as he;
+<note place="margin">1 Cor. 4.13</note> 
+                  <hi>and yet</hi> none ſo lov'd,
+<pb n="51" facs="tcp:58076:28"/>honour'd and eſteem'd.
+<note place="margin">Eſay 43.4</note>
+               </p>
+               <p n="389">389. When he gives to the poor he gives
+<note n="a" place="margin">Luk. 6.35</note> freely, hoping for nothing again; <hi>and yet he beleeves</hi> it's but
+<note n="b" place="margin">Pro. 19.17</note> lent, and he ſhall be payd again.</p>
+               <p n="390">390. He is one that hath meat the world knows not of, and feeds upon dainties that no eye ever ſaw.</p>
+               <p n="391">391. He beleeves that all that are born are not ſtill-born, <hi>and yet he beleeves</hi> that all that are born, are born dead.
+<note place="margin">Epheſ. 2.1</note>
+               </p>
+               <p n="392">392. He beleeves that when one is dead, his life is ended; <hi>and yet he beleeves</hi> that this life is not ended when he is dead.</p>
+               <p n="393">393. He expects that, which he never ſaw; and ſees that, which once he never expected.</p>
+               <p n="394">394. He is one whoſe heart is upright with God; <hi>and yet</hi>
+                  <note n="a" place="margin">This was the ſubſcri<g ref="char:EOLhyphen"/>ption of one of Mr. <hi>Bradfords</hi> Letters. A very painted hy<g ref="char:EOLhyphen"/>pocrite, <hi>John Brad<g ref="char:EOLhyphen"/>ford. Fox. Act. &amp; Mon.</hi> Vol. 3. pag. 356.</note> judgeth himſelf to be a very painted hypocrite.</p>
+               <p n="395">395. He beleeves that the damn'd in hell, are kept under a <hi>dying life,</hi> and a <hi>living death.</hi>
+               </p>
+               <p n="396">396. His eyes are often buſied in the things here below; <hi>and yet</hi> his eyes are ever in heaven, towards the Lord, <hi>Pſalm</hi> 25.15.</p>
+               <p n="397">397. He beleeves that one may hear the Word of God; who <hi>yet he beleeves</hi> hears not God in the Word.</p>
+               <pb n="52" facs="tcp:58076:29"/>
+               <p n="398">398. He truely confeſſeth,
+<note place="margin">Joh. 15.5</note> Lord! with<g ref="char:EOLhyphen"/>out thee I can do nothing; <hi>and yet</hi> as truly profeſſeth I am able to do all things.
+<note place="margin">Phil. 4.13</note>
+               </p>
+               <p n="399">399. He beleeves that ſome men live, as if they never thought to die; <hi>and then</hi> die as if they never thought to live.</p>
+               <p n="400">400. He hath an end in all his deſires; <hi>yet</hi> of his deſiring there's no end.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
